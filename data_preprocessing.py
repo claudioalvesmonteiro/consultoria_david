@@ -2,15 +2,10 @@
 ANALYITQUE CONSULTORIA
 Consultoria David Beltrao
 
+Preprocessamento 
 @ claudioalvesmonteiro
-@ rodrigolins
-
-Mar-Abr 2020
+Mar 2020
 '''
-
-pd.set_option('display.max_rows', 500)
-pd.set_option('display.max_columns', 500)
-
 
 # import pacotes
 import pandas as pd
@@ -59,6 +54,7 @@ for i in range(len(projeto_init)):
     # criar listas de cada pais
     anos = list(range(1999,int( str(projeto_init['ano_inicio'][i]))+1 ))
     pais = (( projeto_init['pais'][i]+';') * len(anos)).split(';')[:-1]
+    contagem_anos = list(range(len(anos))) ############################ VERFIFICAR 01 ############# VERFIFICAR 01 ############# VERFIFICAR 01 ########################
     interv = list([0]*(len(anos)-1))
     interv.append(1)
 
@@ -66,7 +62,8 @@ for i in range(len(projeto_init)):
     dt_pais = pd.DataFrame(
         {'pais': pais,
         'anos': anos,
-        'inicio_projeto': interv 
+        'inicio_projeto': interv ,
+        'anos_contagem' : contagem_anos
         })
 
     dataset = pd.concat([dataset, dt_pais], )
@@ -74,3 +71,18 @@ for i in range(len(projeto_init)):
 
 # salvar
 dataset.to_csv('resultados/DATASET.csv')
+print(dataset.head())
+print('dataset saved')
+
+#=======================================================
+# n de adesoes anteriores aos projetos por regiao
+#=======================================================
+
+
+
+#=======================================================
+# Velocidade de adesao aos projetos de cooperacao 
+# brasileiros nos paises africanos
+#=======================================================
+
+
