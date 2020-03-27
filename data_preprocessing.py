@@ -13,6 +13,10 @@ import pandas as pd
 # importar dados
 proj = pd.read_csv('dados/projetos_cooperacao_brasil_africa.csv')
 
+# substituir nomes
+proj['País'] = [x.replace('Burquina Faso', 'Burkina-Faso') for x in proj['País']]
+proj['País'] = proj['País'].replace('Guiné-Equatorial', 'Guiné Equatorial')
+
 #======================================
 # variavel dependente:
 # tempo ate inicio do primeiro projeto
@@ -69,16 +73,27 @@ for i in range(len(projeto_init)):
     dataset = pd.concat([dataset, dt_pais], )
 
 
+
+
 # salvar
 dataset.to_csv('resultados/DATASET.csv')
 print(dataset.head())
 print('dataset saved')
 
 #=======================================================
-# n de adesoes anteriores aos projetos por regiao
+# n de adesoes anteriores aos projetos por regiao       
 #=======================================================
+# ADICIONAR PAISES QUE NAO FIZERAM COOPERACAO COM O BRASIL A ANALISE
 
 
+# importar dados
+regioes = pd.read_csv('dados/regioes_africa.csv')
+regioes.columns = ['regiao', 'pais']
+
+# combinar com dataset
+dataset2 = pd.merge(dataset, regioes, on = 'pais')
+
+# somar contagem das regioes por ano
 
 #=======================================================
 # Velocidade de adesao aos projetos de cooperacao 

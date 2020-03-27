@@ -1,356 +1,333 @@
-,anos,anos_contagem,inicio_projeto,pais
-0,1999,0.0,0,África do Sul
-1,2000,1.0,0,África do Sul
-2,2001,2.0,0,África do Sul
-3,2002,3.0,0,África do Sul
-4,2003,4.0,0,África do Sul
-5,2004,5.0,0,África do Sul
-6,2005,6.0,0,África do Sul
-7,2006,7.0,0,África do Sul
-8,2007,8.0,0,África do Sul
-9,2008,9.0,0,África do Sul
-10,2009,10.0,1,África do Sul
-0,1999,0.0,0,Namíbia
-1,2000,1.0,0,Namíbia
-2,2001,2.0,0,Namíbia
-3,2002,3.0,0,Namíbia
-4,2003,4.0,0,Namíbia
-5,2004,5.0,0,Namíbia
-6,2005,6.0,0,Namíbia
-7,2006,7.0,1,Namíbia
-0,1999,0.0,0,Moçambique
-1,2000,1.0,0,Moçambique
-2,2001,2.0,0,Moçambique
-3,2002,3.0,1,Moçambique
-0,1999,0.0,0,Angola
-1,2000,1.0,0,Angola
-2,2001,2.0,0,Angola
-3,2002,3.0,1,Angola
-0,1999,0.0,0,Cabo Verde
-1,2000,1.0,0,Cabo Verde
-2,2001,2.0,0,Cabo Verde
-3,2002,3.0,1,Cabo Verde
-0,1999,0.0,0,Guiné-Bissau
-1,2000,1.0,0,Guiné-Bissau
-2,2001,2.0,0,Guiné-Bissau
-3,2002,3.0,1,Guiné-Bissau
-0,1999,0.0,0,São Tomé e Príncipe
-1,2000,1.0,0,São Tomé e Príncipe
-2,2001,2.0,0,São Tomé e Príncipe
-3,2002,3.0,1,São Tomé e Príncipe
-0,1999,0.0,0,Timor Leste
-1,2000,1.0,0,Timor Leste
-2,2001,2.0,0,Timor Leste
-3,2002,3.0,1,Timor Leste
-0,1999,0.0,0,Argélia
-1,2000,1.0,0,Argélia
-2,2001,2.0,0,Argélia
-3,2002,3.0,0,Argélia
-4,2003,4.0,0,Argélia
-5,2004,5.0,0,Argélia
-6,2005,6.0,0,Argélia
-7,2006,7.0,0,Argélia
-8,2007,8.0,1,Argélia
-0,1999,0.0,0,Benin
-1,2000,1.0,0,Benin
-2,2001,2.0,0,Benin
-3,2002,3.0,0,Benin
-4,2003,4.0,0,Benin
-5,2004,5.0,0,Benin
-6,2005,6.0,0,Benin
-7,2006,7.0,1,Benin
-0,1999,0.0,0,Burkina-Faso
-1,2000,1.0,0,Burkina-Faso
-2,2001,2.0,0,Burkina-Faso
-3,2002,3.0,0,Burkina-Faso
-4,2003,4.0,0,Burkina-Faso
-5,2004,5.0,0,Burkina-Faso
-6,2005,6.0,0,Burkina-Faso
-7,2006,7.0,0,Burkina-Faso
-8,2007,8.0,0,Burkina-Faso
-9,2008,9.0,1,Burkina-Faso
-0,1999,0.0,0,Chade
-1,2000,1.0,0,Chade
-2,2001,2.0,0,Chade
-3,2002,3.0,0,Chade
-4,2003,4.0,0,Chade
-5,2004,5.0,0,Chade
-6,2005,6.0,0,Chade
-7,2006,7.0,0,Chade
-8,2007,8.0,1,Chade
-0,1999,0.0,0,Mali
-1,2000,1.0,0,Mali
-2,2001,2.0,0,Mali
-3,2002,3.0,0,Mali
-4,2003,4.0,0,Mali
-5,2004,5.0,0,Mali
-6,2005,6.0,1,Mali
-0,1999,0.0,0,Togo
-1,2000,1.0,0,Togo
-2,2001,2.0,0,Togo
-3,2002,3.0,0,Togo
-4,2003,4.0,0,Togo
-5,2004,5.0,0,Togo
-6,2005,6.0,0,Togo
-7,2006,7.0,0,Togo
-8,2007,8.0,0,Togo
-9,2008,9.0,0,Togo
-10,2009,10.0,0,Togo
-11,2010,11.0,1,Togo
-0,1999,0.0,0,Botsuana
-1,2000,1.0,0,Botsuana
-2,2001,2.0,0,Botsuana
-3,2002,3.0,0,Botsuana
-4,2003,4.0,0,Botsuana
-5,2004,5.0,0,Botsuana
-6,2005,6.0,0,Botsuana
-7,2006,7.0,0,Botsuana
-8,2007,8.0,1,Botsuana
-0,1999,0.0,0,Gana
-1,2000,1.0,0,Gana
-2,2001,2.0,0,Gana
-3,2002,3.0,0,Gana
-4,2003,4.0,0,Gana
-5,2004,5.0,1,Gana
-0,1999,0.0,0,Quênia
-1,2000,1.0,0,Quênia
-2,2001,2.0,0,Quênia
-3,2002,3.0,0,Quênia
-4,2003,4.0,0,Quênia
-5,2004,5.0,0,Quênia
-6,2005,6.0,0,Quênia
-7,2006,7.0,1,Quênia
-0,1999,0.0,0,Tanzânia
-1,2000,1.0,0,Tanzânia
-2,2001,2.0,0,Tanzânia
-3,2002,3.0,0,Tanzânia
-4,2003,4.0,0,Tanzânia
-5,2004,5.0,0,Tanzânia
-6,2005,6.0,0,Tanzânia
-7,2006,7.0,0,Tanzânia
-8,2007,8.0,0,Tanzânia
-9,2008,9.0,0,Tanzânia
-10,2009,10.0,1,Tanzânia
-0,1999,0.0,0,Zâmbia
-1,2000,1.0,0,Zâmbia
-2,2001,2.0,0,Zâmbia
-3,2002,3.0,0,Zâmbia
-4,2003,4.0,0,Zâmbia
-5,2004,5.0,0,Zâmbia
-6,2005,6.0,1,Zâmbia
-0,1999,0.0,0,Burquina Faso
-1,2000,1.0,0,Burquina Faso
-2,2001,2.0,0,Burquina Faso
-3,2002,3.0,0,Burquina Faso
-4,2003,4.0,0,Burquina Faso
-5,2004,5.0,0,Burquina Faso
-6,2005,6.0,0,Burquina Faso
-7,2006,7.0,1,Burquina Faso
-0,1999,0.0,0,República Democrática do Congo
-1,2000,1.0,0,República Democrática do Congo
-2,2001,2.0,0,República Democrática do Congo
-3,2002,3.0,0,República Democrática do Congo
-4,2003,4.0,0,República Democrática do Congo
-5,2004,5.0,0,República Democrática do Congo
-6,2005,6.0,0,República Democrática do Congo
-7,2006,7.0,0,República Democrática do Congo
-8,2007,8.0,1,República Democrática do Congo
-0,1999,0.0,0,República do Congo
-1,2000,1.0,0,República do Congo
-2,2001,2.0,0,República do Congo
-3,2002,3.0,0,República do Congo
-4,2003,4.0,0,República do Congo
-5,2004,5.0,0,República do Congo
-6,2005,6.0,0,República do Congo
-7,2006,7.0,0,República do Congo
-8,2007,8.0,1,República do Congo
-0,1999,0.0,0,Camarões
-1,2000,1.0,0,Camarões
-2,2001,2.0,0,Camarões
-3,2002,3.0,0,Camarões
-4,2003,4.0,0,Camarões
-5,2004,5.0,0,Camarões
-6,2005,6.0,0,Camarões
-7,2006,7.0,0,Camarões
-8,2007,8.0,0,Camarões
-9,2008,9.0,1,Camarões
-0,1999,0.0,0,Egito
-1,2000,1.0,0,Egito
-2,2001,2.0,0,Egito
-3,2002,3.0,0,Egito
-4,2003,4.0,0,Egito
-5,2004,5.0,0,Egito
-6,2005,6.0,0,Egito
-7,2006,7.0,0,Egito
-8,2007,8.0,1,Egito
-0,1999,0.0,0,Etiópia
-1,2000,1.0,0,Etiópia
-2,2001,2.0,0,Etiópia
-3,2002,3.0,0,Etiópia
-4,2003,4.0,0,Etiópia
-5,2004,5.0,0,Etiópia
-6,2005,6.0,0,Etiópia
-7,2006,7.0,0,Etiópia
-8,2007,8.0,0,Etiópia
-9,2008,9.0,1,Etiópia
-0,1999,0.0,0,Gabão
-1,2000,1.0,0,Gabão
-2,2001,2.0,0,Gabão
-3,2002,3.0,0,Gabão
-4,2003,4.0,0,Gabão
-5,2004,5.0,1,Gabão
-0,1999,0.0,0,Gâmbia
-1,2000,1.0,0,Gâmbia
-2,2001,2.0,0,Gâmbia
-3,2002,3.0,0,Gâmbia
-4,2003,4.0,0,Gâmbia
-5,2004,5.0,0,Gâmbia
-6,2005,6.0,0,Gâmbia
-7,2006,7.0,1,Gâmbia
-0,1999,0.0,0,Guiné
-1,2000,1.0,0,Guiné
-2,2001,2.0,0,Guiné
-3,2002,3.0,0,Guiné
-4,2003,4.0,0,Guiné
-5,2004,5.0,0,Guiné
-6,2005,6.0,0,Guiné
-7,2006,7.0,0,Guiné
-8,2007,8.0,0,Guiné
-9,2008,9.0,0,Guiné
-10,2009,10.0,0,Guiné
-11,2010,11.0,1,Guiné
-0,1999,0.0,0,Guiné Equatorial
-1,2000,1.0,0,Guiné Equatorial
-2,2001,2.0,0,Guiné Equatorial
-3,2002,3.0,0,Guiné Equatorial
-4,2003,4.0,0,Guiné Equatorial
-5,2004,5.0,0,Guiné Equatorial
-6,2005,6.0,0,Guiné Equatorial
-7,2006,7.0,0,Guiné Equatorial
-8,2007,8.0,0,Guiné Equatorial
-9,2008,9.0,0,Guiné Equatorial
-10,2009,10.0,0,Guiné Equatorial
-11,2010,11.0,0,Guiné Equatorial
-12,2011,12.0,1,Guiné Equatorial
-0,1999,0.0,0,Guiné-Equatorial
-1,2000,1.0,0,Guiné-Equatorial
-2,2001,2.0,0,Guiné-Equatorial
-3,2002,3.0,0,Guiné-Equatorial
-4,2003,4.0,0,Guiné-Equatorial
-5,2004,5.0,0,Guiné-Equatorial
-6,2005,6.0,0,Guiné-Equatorial
-7,2006,7.0,0,Guiné-Equatorial
-8,2007,8.0,0,Guiné-Equatorial
-9,2008,9.0,0,Guiné-Equatorial
-10,2009,10.0,1,Guiné-Equatorial
-0,1999,0.0,0,Libéria
-1,2000,1.0,0,Libéria
-2,2001,2.0,0,Libéria
-3,2002,3.0,0,Libéria
-4,2003,4.0,0,Libéria
-5,2004,5.0,0,Libéria
-6,2005,6.0,1,Libéria
-0,1999,0.0,0,Serra Leoa
-1,2000,1.0,0,Serra Leoa
-2,2001,2.0,0,Serra Leoa
-3,2002,3.0,0,Serra Leoa
-4,2003,4.0,0,Serra Leoa
-5,2004,5.0,0,Serra Leoa
-6,2005,6.0,0,Serra Leoa
-7,2006,7.0,0,Serra Leoa
-8,2007,8.0,0,Serra Leoa
-9,2008,9.0,0,Serra Leoa
-10,2009,10.0,1,Serra Leoa
-0,1999,0.0,0,Malaui
-1,2000,1.0,0,Malaui
-2,2001,2.0,0,Malaui
-3,2002,3.0,0,Malaui
-4,2003,4.0,0,Malaui
-5,2004,5.0,0,Malaui
-6,2005,6.0,0,Malaui
-7,2006,7.0,0,Malaui
-8,2007,8.0,0,Malaui
-9,2008,9.0,0,Malaui
-10,2009,10.0,1,Malaui
-0,1999,0.0,0,Marrocos
-1,2000,1.0,0,Marrocos
-2,2001,2.0,0,Marrocos
-3,2002,3.0,0,Marrocos
-4,2003,4.0,0,Marrocos
-5,2004,5.0,0,Marrocos
-6,2005,6.0,0,Marrocos
-7,2006,7.0,0,Marrocos
-8,2007,8.0,1,Marrocos
-0,1999,0.0,0,Mauritânia
-1,2000,1.0,0,Mauritânia
-2,2001,2.0,0,Mauritânia
-3,2002,3.0,0,Mauritânia
-4,2003,4.0,0,Mauritânia
-5,2004,5.0,0,Mauritânia
-6,2005,6.0,0,Mauritânia
-7,2006,7.0,0,Mauritânia
-8,2007,8.0,0,Mauritânia
-9,2008,9.0,0,Mauritânia
-10,2009,10.0,0,Mauritânia
-11,2010,11.0,1,Mauritânia
-0,1999,0.0,0,Nigéria
-1,2000,1.0,0,Nigéria
-2,2001,2.0,0,Nigéria
-3,2002,3.0,0,Nigéria
-4,2003,4.0,0,Nigéria
-5,2004,5.0,0,Nigéria
-6,2005,6.0,1,Nigéria
-0,1999,0.0,0,Ruanda
-1,2000,1.0,0,Ruanda
-2,2001,2.0,0,Ruanda
-3,2002,3.0,0,Ruanda
-4,2003,4.0,0,Ruanda
-5,2004,5.0,0,Ruanda
-6,2005,6.0,0,Ruanda
-7,2006,7.0,0,Ruanda
-8,2007,8.0,0,Ruanda
-9,2008,9.0,1,Ruanda
-0,1999,0.0,0,Uganda
-1,2000,1.0,0,Uganda
-2,2001,2.0,0,Uganda
-3,2002,3.0,0,Uganda
-4,2003,4.0,0,Uganda
-5,2004,5.0,0,Uganda
-6,2005,6.0,0,Uganda
-7,2006,7.0,0,Uganda
-8,2007,8.0,0,Uganda
-9,2008,9.0,1,Uganda
-0,1999,0.0,0,Senegal
-1,2000,1.0,0,Senegal
-2,2001,2.0,0,Senegal
-3,2002,3.0,0,Senegal
-4,2003,4.0,0,Senegal
-5,2004,5.0,0,Senegal
-6,2005,6.0,1,Senegal
-0,1999,0.0,0,Sudão
-1,2000,1.0,0,Sudão
-2,2001,2.0,0,Sudão
-3,2002,3.0,0,Sudão
-4,2003,4.0,0,Sudão
-5,2004,5.0,0,Sudão
-6,2005,6.0,0,Sudão
-7,2006,7.0,0,Sudão
-8,2007,8.0,0,Sudão
-9,2008,9.0,0,Sudão
-10,2009,10.0,0,Sudão
-11,2010,11.0,1,Sudão
-0,1999,0.0,0,Tunísia
-1,2000,1.0,0,Tunísia
-2,2001,2.0,0,Tunísia
-3,2002,3.0,0,Tunísia
-4,2003,4.0,0,Tunísia
-5,2004,5.0,0,Tunísia
-6,2005,6.0,0,Tunísia
-7,2006,7.0,1,Tunísia
-0,1999,0.0,0,Zimbabue
-1,2000,1.0,0,Zimbabue
-2,2001,2.0,0,Zimbabue
-3,2002,3.0,0,Zimbabue
-4,2003,4.0,0,Zimbabue
-5,2004,5.0,0,Zimbabue
-6,2005,6.0,1,Zimbabue
+,pais,anos,inicio_projeto,anos_contagem
+0,África do Sul,1999,0,0.0
+1,África do Sul,2000,0,1.0
+2,África do Sul,2001,0,2.0
+3,África do Sul,2002,0,3.0
+4,África do Sul,2003,0,4.0
+5,África do Sul,2004,0,5.0
+6,África do Sul,2005,0,6.0
+7,África do Sul,2006,0,7.0
+8,África do Sul,2007,0,8.0
+9,África do Sul,2008,0,9.0
+10,África do Sul,2009,1,10.0
+0,Namíbia,1999,0,0.0
+1,Namíbia,2000,0,1.0
+2,Namíbia,2001,0,2.0
+3,Namíbia,2002,0,3.0
+4,Namíbia,2003,0,4.0
+5,Namíbia,2004,0,5.0
+6,Namíbia,2005,0,6.0
+7,Namíbia,2006,1,7.0
+0,Moçambique,1999,0,0.0
+1,Moçambique,2000,0,1.0
+2,Moçambique,2001,0,2.0
+3,Moçambique,2002,1,3.0
+0,Angola,1999,0,0.0
+1,Angola,2000,0,1.0
+2,Angola,2001,0,2.0
+3,Angola,2002,1,3.0
+0,Cabo Verde,1999,0,0.0
+1,Cabo Verde,2000,0,1.0
+2,Cabo Verde,2001,0,2.0
+3,Cabo Verde,2002,1,3.0
+0,Guiné-Bissau,1999,0,0.0
+1,Guiné-Bissau,2000,0,1.0
+2,Guiné-Bissau,2001,0,2.0
+3,Guiné-Bissau,2002,1,3.0
+0,São Tomé e Príncipe,1999,0,0.0
+1,São Tomé e Príncipe,2000,0,1.0
+2,São Tomé e Príncipe,2001,0,2.0
+3,São Tomé e Príncipe,2002,1,3.0
+0,Timor Leste,1999,0,0.0
+1,Timor Leste,2000,0,1.0
+2,Timor Leste,2001,0,2.0
+3,Timor Leste,2002,1,3.0
+0,Argélia,1999,0,0.0
+1,Argélia,2000,0,1.0
+2,Argélia,2001,0,2.0
+3,Argélia,2002,0,3.0
+4,Argélia,2003,0,4.0
+5,Argélia,2004,0,5.0
+6,Argélia,2005,0,6.0
+7,Argélia,2006,0,7.0
+8,Argélia,2007,1,8.0
+0,Benin,1999,0,0.0
+1,Benin,2000,0,1.0
+2,Benin,2001,0,2.0
+3,Benin,2002,0,3.0
+4,Benin,2003,0,4.0
+5,Benin,2004,0,5.0
+6,Benin,2005,0,6.0
+7,Benin,2006,1,7.0
+0,Burkina-Faso,1999,0,0.0
+1,Burkina-Faso,2000,0,1.0
+2,Burkina-Faso,2001,0,2.0
+3,Burkina-Faso,2002,0,3.0
+4,Burkina-Faso,2003,0,4.0
+5,Burkina-Faso,2004,0,5.0
+6,Burkina-Faso,2005,0,6.0
+7,Burkina-Faso,2006,1,7.0
+0,Chade,1999,0,0.0
+1,Chade,2000,0,1.0
+2,Chade,2001,0,2.0
+3,Chade,2002,0,3.0
+4,Chade,2003,0,4.0
+5,Chade,2004,0,5.0
+6,Chade,2005,0,6.0
+7,Chade,2006,0,7.0
+8,Chade,2007,1,8.0
+0,Mali,1999,0,0.0
+1,Mali,2000,0,1.0
+2,Mali,2001,0,2.0
+3,Mali,2002,0,3.0
+4,Mali,2003,0,4.0
+5,Mali,2004,0,5.0
+6,Mali,2005,1,6.0
+0,Togo,1999,0,0.0
+1,Togo,2000,0,1.0
+2,Togo,2001,0,2.0
+3,Togo,2002,0,3.0
+4,Togo,2003,0,4.0
+5,Togo,2004,0,5.0
+6,Togo,2005,0,6.0
+7,Togo,2006,0,7.0
+8,Togo,2007,0,8.0
+9,Togo,2008,0,9.0
+10,Togo,2009,0,10.0
+11,Togo,2010,1,11.0
+0,Botsuana,1999,0,0.0
+1,Botsuana,2000,0,1.0
+2,Botsuana,2001,0,2.0
+3,Botsuana,2002,0,3.0
+4,Botsuana,2003,0,4.0
+5,Botsuana,2004,0,5.0
+6,Botsuana,2005,0,6.0
+7,Botsuana,2006,0,7.0
+8,Botsuana,2007,1,8.0
+0,Gana,1999,0,0.0
+1,Gana,2000,0,1.0
+2,Gana,2001,0,2.0
+3,Gana,2002,0,3.0
+4,Gana,2003,0,4.0
+5,Gana,2004,1,5.0
+0,Quênia,1999,0,0.0
+1,Quênia,2000,0,1.0
+2,Quênia,2001,0,2.0
+3,Quênia,2002,0,3.0
+4,Quênia,2003,0,4.0
+5,Quênia,2004,0,5.0
+6,Quênia,2005,0,6.0
+7,Quênia,2006,1,7.0
+0,Tanzânia,1999,0,0.0
+1,Tanzânia,2000,0,1.0
+2,Tanzânia,2001,0,2.0
+3,Tanzânia,2002,0,3.0
+4,Tanzânia,2003,0,4.0
+5,Tanzânia,2004,0,5.0
+6,Tanzânia,2005,0,6.0
+7,Tanzânia,2006,0,7.0
+8,Tanzânia,2007,0,8.0
+9,Tanzânia,2008,0,9.0
+10,Tanzânia,2009,1,10.0
+0,Zâmbia,1999,0,0.0
+1,Zâmbia,2000,0,1.0
+2,Zâmbia,2001,0,2.0
+3,Zâmbia,2002,0,3.0
+4,Zâmbia,2003,0,4.0
+5,Zâmbia,2004,0,5.0
+6,Zâmbia,2005,1,6.0
+0,República Democrática do Congo,1999,0,0.0
+1,República Democrática do Congo,2000,0,1.0
+2,República Democrática do Congo,2001,0,2.0
+3,República Democrática do Congo,2002,0,3.0
+4,República Democrática do Congo,2003,0,4.0
+5,República Democrática do Congo,2004,0,5.0
+6,República Democrática do Congo,2005,0,6.0
+7,República Democrática do Congo,2006,0,7.0
+8,República Democrática do Congo,2007,1,8.0
+0,República do Congo,1999,0,0.0
+1,República do Congo,2000,0,1.0
+2,República do Congo,2001,0,2.0
+3,República do Congo,2002,0,3.0
+4,República do Congo,2003,0,4.0
+5,República do Congo,2004,0,5.0
+6,República do Congo,2005,0,6.0
+7,República do Congo,2006,0,7.0
+8,República do Congo,2007,1,8.0
+0,Camarões,1999,0,0.0
+1,Camarões,2000,0,1.0
+2,Camarões,2001,0,2.0
+3,Camarões,2002,0,3.0
+4,Camarões,2003,0,4.0
+5,Camarões,2004,0,5.0
+6,Camarões,2005,0,6.0
+7,Camarões,2006,0,7.0
+8,Camarões,2007,0,8.0
+9,Camarões,2008,1,9.0
+0,Egito,1999,0,0.0
+1,Egito,2000,0,1.0
+2,Egito,2001,0,2.0
+3,Egito,2002,0,3.0
+4,Egito,2003,0,4.0
+5,Egito,2004,0,5.0
+6,Egito,2005,0,6.0
+7,Egito,2006,0,7.0
+8,Egito,2007,1,8.0
+0,Etiópia,1999,0,0.0
+1,Etiópia,2000,0,1.0
+2,Etiópia,2001,0,2.0
+3,Etiópia,2002,0,3.0
+4,Etiópia,2003,0,4.0
+5,Etiópia,2004,0,5.0
+6,Etiópia,2005,0,6.0
+7,Etiópia,2006,0,7.0
+8,Etiópia,2007,0,8.0
+9,Etiópia,2008,1,9.0
+0,Gabão,1999,0,0.0
+1,Gabão,2000,0,1.0
+2,Gabão,2001,0,2.0
+3,Gabão,2002,0,3.0
+4,Gabão,2003,0,4.0
+5,Gabão,2004,1,5.0
+0,Gâmbia,1999,0,0.0
+1,Gâmbia,2000,0,1.0
+2,Gâmbia,2001,0,2.0
+3,Gâmbia,2002,0,3.0
+4,Gâmbia,2003,0,4.0
+5,Gâmbia,2004,0,5.0
+6,Gâmbia,2005,0,6.0
+7,Gâmbia,2006,1,7.0
+0,Guiné,1999,0,0.0
+1,Guiné,2000,0,1.0
+2,Guiné,2001,0,2.0
+3,Guiné,2002,0,3.0
+4,Guiné,2003,0,4.0
+5,Guiné,2004,0,5.0
+6,Guiné,2005,0,6.0
+7,Guiné,2006,0,7.0
+8,Guiné,2007,0,8.0
+9,Guiné,2008,0,9.0
+10,Guiné,2009,0,10.0
+11,Guiné,2010,1,11.0
+0,Guiné Equatorial,1999,0,0.0
+1,Guiné Equatorial,2000,0,1.0
+2,Guiné Equatorial,2001,0,2.0
+3,Guiné Equatorial,2002,0,3.0
+4,Guiné Equatorial,2003,0,4.0
+5,Guiné Equatorial,2004,0,5.0
+6,Guiné Equatorial,2005,0,6.0
+7,Guiné Equatorial,2006,0,7.0
+8,Guiné Equatorial,2007,0,8.0
+9,Guiné Equatorial,2008,0,9.0
+10,Guiné Equatorial,2009,1,10.0
+0,Libéria,1999,0,0.0
+1,Libéria,2000,0,1.0
+2,Libéria,2001,0,2.0
+3,Libéria,2002,0,3.0
+4,Libéria,2003,0,4.0
+5,Libéria,2004,0,5.0
+6,Libéria,2005,1,6.0
+0,Serra Leoa,1999,0,0.0
+1,Serra Leoa,2000,0,1.0
+2,Serra Leoa,2001,0,2.0
+3,Serra Leoa,2002,0,3.0
+4,Serra Leoa,2003,0,4.0
+5,Serra Leoa,2004,0,5.0
+6,Serra Leoa,2005,0,6.0
+7,Serra Leoa,2006,0,7.0
+8,Serra Leoa,2007,0,8.0
+9,Serra Leoa,2008,0,9.0
+10,Serra Leoa,2009,1,10.0
+0,Malaui,1999,0,0.0
+1,Malaui,2000,0,1.0
+2,Malaui,2001,0,2.0
+3,Malaui,2002,0,3.0
+4,Malaui,2003,0,4.0
+5,Malaui,2004,0,5.0
+6,Malaui,2005,0,6.0
+7,Malaui,2006,0,7.0
+8,Malaui,2007,0,8.0
+9,Malaui,2008,0,9.0
+10,Malaui,2009,1,10.0
+0,Marrocos,1999,0,0.0
+1,Marrocos,2000,0,1.0
+2,Marrocos,2001,0,2.0
+3,Marrocos,2002,0,3.0
+4,Marrocos,2003,0,4.0
+5,Marrocos,2004,0,5.0
+6,Marrocos,2005,0,6.0
+7,Marrocos,2006,0,7.0
+8,Marrocos,2007,1,8.0
+0,Mauritânia,1999,0,0.0
+1,Mauritânia,2000,0,1.0
+2,Mauritânia,2001,0,2.0
+3,Mauritânia,2002,0,3.0
+4,Mauritânia,2003,0,4.0
+5,Mauritânia,2004,0,5.0
+6,Mauritânia,2005,0,6.0
+7,Mauritânia,2006,0,7.0
+8,Mauritânia,2007,0,8.0
+9,Mauritânia,2008,0,9.0
+10,Mauritânia,2009,0,10.0
+11,Mauritânia,2010,1,11.0
+0,Nigéria,1999,0,0.0
+1,Nigéria,2000,0,1.0
+2,Nigéria,2001,0,2.0
+3,Nigéria,2002,0,3.0
+4,Nigéria,2003,0,4.0
+5,Nigéria,2004,0,5.0
+6,Nigéria,2005,1,6.0
+0,Ruanda,1999,0,0.0
+1,Ruanda,2000,0,1.0
+2,Ruanda,2001,0,2.0
+3,Ruanda,2002,0,3.0
+4,Ruanda,2003,0,4.0
+5,Ruanda,2004,0,5.0
+6,Ruanda,2005,0,6.0
+7,Ruanda,2006,0,7.0
+8,Ruanda,2007,0,8.0
+9,Ruanda,2008,1,9.0
+0,Uganda,1999,0,0.0
+1,Uganda,2000,0,1.0
+2,Uganda,2001,0,2.0
+3,Uganda,2002,0,3.0
+4,Uganda,2003,0,4.0
+5,Uganda,2004,0,5.0
+6,Uganda,2005,0,6.0
+7,Uganda,2006,0,7.0
+8,Uganda,2007,0,8.0
+9,Uganda,2008,1,9.0
+0,Senegal,1999,0,0.0
+1,Senegal,2000,0,1.0
+2,Senegal,2001,0,2.0
+3,Senegal,2002,0,3.0
+4,Senegal,2003,0,4.0
+5,Senegal,2004,0,5.0
+6,Senegal,2005,1,6.0
+0,Sudão,1999,0,0.0
+1,Sudão,2000,0,1.0
+2,Sudão,2001,0,2.0
+3,Sudão,2002,0,3.0
+4,Sudão,2003,0,4.0
+5,Sudão,2004,0,5.0
+6,Sudão,2005,0,6.0
+7,Sudão,2006,0,7.0
+8,Sudão,2007,0,8.0
+9,Sudão,2008,0,9.0
+10,Sudão,2009,0,10.0
+11,Sudão,2010,1,11.0
+0,Tunísia,1999,0,0.0
+1,Tunísia,2000,0,1.0
+2,Tunísia,2001,0,2.0
+3,Tunísia,2002,0,3.0
+4,Tunísia,2003,0,4.0
+5,Tunísia,2004,0,5.0
+6,Tunísia,2005,0,6.0
+7,Tunísia,2006,1,7.0
+0,Zimbabue,1999,0,0.0
+1,Zimbabue,2000,0,1.0
+2,Zimbabue,2001,0,2.0
+3,Zimbabue,2002,0,3.0
+4,Zimbabue,2003,0,4.0
+5,Zimbabue,2004,0,5.0
+6,Zimbabue,2005,1,6.0
