@@ -23,7 +23,7 @@ proj['País'] = proj['País'].replace('Guiné-Equatorial', 'Guiné Equatorial')
 #======================================
 
 # trasnformar em datime 
-proj['data'] = proj['Término'].astype('datetime64[ns]') 
+proj['data'] = proj['Início'].astype('datetime64[ns]') 
 
 # capturar data do primeiro projeto por país
 dic_init = dict()
@@ -73,7 +73,66 @@ for i in range(len(projeto_init)):
     dataset = pd.concat([dataset, dt_pais], )
 
 
+#=======================================================
+# n de adesoes anteriores aos projetos por regiao       
+#=======================================================
 
+# importar dados
+regioes = pd.read_csv('dados/regioes_africa.csv')
+regioes.columns = ['regiao', 'País']
+
+# criar variavel ano
+proj['ano_inicio'] = proj['data'].map(lambda x: x.year )
+
+### separar projetos em mais de um pais
+def splitIndividualCountries():
+    ''' identificar os projetos em mais de um pais,
+        duplicar as informacoes do projeto identificando e separando os paises
+    '''
+    proj_long = proj[False == proj['País'].str.contains(';')]
+    for i in range(len(proj)):
+        if ';' in proj['País'][i]:
+            paises = proj['País'][i].split(';')
+            for j in range(len(paises)):
+                pais = paises[j] 
+                if j != 0:
+                    pais = pais[1:]
+                row = proj[i:i+1]  
+                row['País'] = pais
+                proj_long = pd.concat([proj_long, row])
+
+
+splitIndividualCountries()
+
+# combinar regioes com projetos
+data_regiao = pd.merge(proj, regioes, on='País', how='left')
+
+# contagem de projeto iniciados por cada ano
+reg_cont = data_regiao.groupby(['regiao', 'ano_inicio']).size().reset_index()
+reg_cont.columns = ['regiao', 'anos', 'regiao_proj_noano']
+
+### contagem de projeto acumulados em cada ano
+def projAcumulados(): 
+    projetos_acumulados = []
+    for i in reg_cont['regiao'].unique():
+        reg = reg_cont[reg_cont.regiao == i].reset_index()
+        idi = 0
+        for i in range(len(reg)):
+            idi = idi + reg['regiao_proj_noano'][i]
+            projetos_acumulados.append(idi)
+    return projetos_acumulados
+
+    
+reg_cont['regiao_proj_acumulados'] = projAcumulados()
+
+### combinar bases de dados 
+regioes.columns = ['regiao', 'pais']
+dataset = pd.merge(dataset, regioes, on = ['pais'])
+dataset = pd.merge(dataset, reg_cont, on = ['regiao','anos'], how = 'left')
+
+# substitui NA por 0 no numero de projetos por ano
+dataset['regiao_proj_noano'] = dataset['regiao_proj_noano'].fillna(0)
+dataset['regiao_proj_acumulados'] = dataset['regiao_proj_acumulados'].fillna(0)
 
 # salvar
 dataset.to_csv('resultados/DATASET.csv')
@@ -81,23 +140,9 @@ print(dataset.head())
 print('dataset saved')
 
 #=======================================================
-# n de adesoes anteriores aos projetos por regiao       
-#=======================================================
-# ADICIONAR PAISES QUE NAO FIZERAM COOPERACAO COM O BRASIL A ANALISE
-
-
-# importar dados
-regioes = pd.read_csv('dados/regioes_africa.csv')
-regioes.columns = ['regiao', 'pais']
-
-# combinar com dataset
-dataset2 = pd.merge(dataset, regioes, on = 'pais')
-
-# somar contagem das regioes por ano
-
-#=======================================================
 # Velocidade de adesao aos projetos de cooperacao 
 # brasileiros nos paises africanos
 #=======================================================
+
 
 
