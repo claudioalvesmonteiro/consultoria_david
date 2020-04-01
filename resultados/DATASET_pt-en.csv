@@ -1,0 +1,327 @@
+;pais;cname;anos;inicio_projeto;anos_contagem;regiao;regiao_proj_noano;regiao_proj_acumulados
+0;Africa do Sul;South Africa;1999;0;0.0;Africa do Sul;0.0;0.0
+1;Africa do Sul;South Africa;2000;0;1.0;Africa do Sul;0.0;0.0
+2;Africa do Sul;South Africa;2001;0;2.0;Africa do Sul;0.0;0.0
+3;Africa do Sul;South Africa;2002;0;3.0;Africa do Sul;0.0;0.0
+4;Africa do Sul;South Africa;2003;0;4.0;Africa do Sul;0.0;0.0
+5;Africa do Sul;South Africa;2004;0;5.0;Africa do Sul;0.0;0.0
+6;Africa do Sul;South Africa;2005;0;6.0;Africa do Sul;1.0;1.0
+7;Africa do Sul;South Africa;2006;0;7.0;Africa do Sul;5.0;6.0
+8;Africa do Sul;South Africa;2007;0;8.0;Africa do Sul;2.0;8.0
+9;Africa do Sul;South Africa;2008;0;9.0;Africa do Sul;2.0;10.0
+10;Africa do Sul;South Africa;2009;1;10.0;Africa do Sul;1.0;11.0
+11;Namibia;Namibia;1999;0;0.0;Africa do Sul;0.0;0.0
+12;Namibia;Namibia;2000;0;1.0;Africa do Sul;0.0;0.0
+13;Namibia;Namibia;2001;0;2.0;Africa do Sul;0.0;0.0
+14;Namibia;Namibia;2002;0;3.0;Africa do Sul;0.0;0.0
+15;Namibia;Namibia;2003;0;4.0;Africa do Sul;0.0;0.0
+16;Namibia;Namibia;2004;0;5.0;Africa do Sul;0.0;0.0
+17;Namibia;Namibia;2005;1;6.0;Africa do Sul;1.0;1.0
+18;Mocambique;Mozambique;1999;0;0.0;Africa Oriental;0.0;0.0
+19;Mocambique;Mozambique;2000;0;1.0;Africa Oriental;0.0;0.0
+20;Mocambique;Mozambique;2001;0;2.0;Africa Oriental;0.0;0.0
+21;Mocambique;Mozambique;2002;1;3.0;Africa Oriental;0.0;0.0
+22;Angola;Angola;1999;0;0.0;Africa Central;0.0;0.0
+23;Angola;Angola;2000;0;1.0;Africa Central;0.0;0.0
+24;Angola;Angola;2001;0;2.0;Africa Central;0.0;0.0
+25;Angola;Angola;2002;1;3.0;Africa Central;0.0;0.0
+26;Cabo Verde;Cape Verde;1999;0;0.0;Africa Ocidental;0.0;0.0
+27;Cabo Verde;Cape Verde;2000;0;1.0;Africa Ocidental;0.0;0.0
+28;Cabo Verde;Cape Verde;2001;0;2.0;Africa Ocidental;0.0;0.0
+29;Cabo Verde;Cape Verde;2002;1;3.0;Africa Ocidental;0.0;0.0
+30;Guine-Bissau;Guinea-Bissau ;1999;0;0.0;Africa Ocidental;0.0;0.0
+31;Guine-Bissau;Guinea-Bissau ;2000;0;1.0;Africa Ocidental;0.0;0.0
+32;Guine-Bissau;Guinea-Bissau ;2001;0;2.0;Africa Ocidental;0.0;0.0
+33;Guine-Bissau;Guinea-Bissau ;2002;1;3.0;Africa Ocidental;0.0;0.0
+34;Sao Tome e Principe;Sao Tome and Principe;1999;0;0.0;Africa Central;0.0;0.0
+35;Sao Tome e Principe;Sao Tome and Principe;1999;0;0.0;Africa Ocidental;0.0;0.0
+36;Sao Tome e Principe;Sao Tome and Principe;2000;0;1.0;Africa Central;0.0;0.0
+37;Sao Tome e Principe;Sao Tome and Principe;2000;0;1.0;Africa Ocidental;0.0;0.0
+38;Sao Tome e Principe;Sao Tome and Principe;2001;0;2.0;Africa Central;0.0;0.0
+39;Sao Tome e Principe;Sao Tome and Principe;2001;0;2.0;Africa Ocidental;0.0;0.0
+40;Sao Tome e Principe;Sao Tome and Principe;2002;1;3.0;Africa Central;0.0;0.0
+41;Sao Tome e Principe;Sao Tome and Principe;2002;1;3.0;Africa Ocidental;0.0;0.0
+42;Argelia;Algeria;1999;0;0.0;Africa do Norte;0.0;0.0
+43;Argelia;Algeria;2000;0;1.0;Africa do Norte;0.0;0.0
+44;Argelia;Algeria;2001;0;2.0;Africa do Norte;0.0;0.0
+45;Argelia;Algeria;2002;0;3.0;Africa do Norte;0.0;0.0
+46;Argelia;Algeria;2003;0;4.0;Africa do Norte;0.0;0.0
+47;Argelia;Algeria;2004;0;5.0;Africa do Norte;0.0;0.0
+48;Argelia;Algeria;2005;0;6.0;Africa do Norte;0.0;0.0
+49;Argelia;Algeria;2006;0;7.0;Africa do Norte;1.0;1.0
+50;Argelia;Algeria;2007;1;8.0;Africa do Norte;9.0;10.0
+51;Benin;Benin;1999;0;0.0;Africa Ocidental;0.0;0.0
+52;Benin;Benin;2000;0;1.0;Africa Ocidental;0.0;0.0
+53;Benin;Benin;2001;0;2.0;Africa Ocidental;0.0;0.0
+54;Benin;Benin;2002;0;3.0;Africa Ocidental;0.0;0.0
+55;Benin;Benin;2003;0;4.0;Africa Ocidental;2.0;2.0
+56;Benin;Benin;2004;0;5.0;Africa Ocidental;4.0;6.0
+57;Benin;Benin;2005;0;6.0;Africa Ocidental;13.0;19.0
+58;Benin;Benin;2006;1;7.0;Africa Ocidental;20.0;39.0
+59;Burkina-Faso;Burkina Faso;1999;0;0.0;Africa Ocidental;0.0;0.0
+60;Burkina-Faso;Burkina Faso;2000;0;1.0;Africa Ocidental;0.0;0.0
+61;Burkina-Faso;Burkina Faso;2001;0;2.0;Africa Ocidental;0.0;0.0
+62;Burkina-Faso;Burkina Faso;2002;0;3.0;Africa Ocidental;0.0;0.0
+63;Burkina-Faso;Burkina Faso;2003;0;4.0;Africa Ocidental;2.0;2.0
+64;Burkina-Faso;Burkina Faso;2004;0;5.0;Africa Ocidental;4.0;6.0
+65;Burkina-Faso;Burkina Faso;2005;0;6.0;Africa Ocidental;13.0;19.0
+66;Burkina-Faso;Burkina Faso;2006;1;7.0;Africa Ocidental;20.0;39.0
+67;Chade;Chad;1999;0;0.0;Africa Central;0.0;0.0
+68;Chade;Chad;2000;0;1.0;Africa Central;0.0;0.0
+69;Chade;Chad;2001;0;2.0;Africa Central;0.0;0.0
+70;Chade;Chad;2002;0;3.0;Africa Central;0.0;0.0
+71;Chade;Chad;2003;0;4.0;Africa Central;1.0;1.0
+72;Chade;Chad;2004;0;5.0;Africa Central;1.0;2.0
+73;Chade;Chad;2005;0;6.0;Africa Central;8.0;10.0
+74;Chade;Chad;2006;0;7.0;Africa Central;6.0;16.0
+75;Chade;Chad;2007;1;8.0;Africa Central;22.0;38.0
+76;Mali;Mali;1999;0;0.0;Africa Ocidental;0.0;0.0
+77;Mali;Mali;2000;0;1.0;Africa Ocidental;0.0;0.0
+78;Mali;Mali;2001;0;2.0;Africa Ocidental;0.0;0.0
+79;Mali;Mali;2002;0;3.0;Africa Ocidental;0.0;0.0
+80;Mali;Mali;2003;0;4.0;Africa Ocidental;2.0;2.0
+81;Mali;Mali;2004;0;5.0;Africa Ocidental;4.0;6.0
+82;Mali;Mali;2005;1;6.0;Africa Ocidental;13.0;19.0
+83;Togo;Togo;1999;0;0.0;Africa Ocidental;0.0;0.0
+84;Togo;Togo;2000;0;1.0;Africa Ocidental;0.0;0.0
+85;Togo;Togo;2001;0;2.0;Africa Ocidental;0.0;0.0
+86;Togo;Togo;2002;0;3.0;Africa Ocidental;0.0;0.0
+87;Togo;Togo;2003;0;4.0;Africa Ocidental;2.0;2.0
+88;Togo;Togo;2004;0;5.0;Africa Ocidental;4.0;6.0
+89;Togo;Togo;2005;0;6.0;Africa Ocidental;13.0;19.0
+90;Togo;Togo;2006;0;7.0;Africa Ocidental;20.0;39.0
+91;Togo;Togo;2007;0;8.0;Africa Ocidental;34.0;73.0
+92;Togo;Togo;2008;0;9.0;Africa Ocidental;35.0;108.0
+93;Togo;Togo;2009;1;10.0;Africa Ocidental;36.0;144.0
+94;Botsuana;Botswana;1999;0;0.0;Africa do Sul;0.0;0.0
+95;Botsuana;Botswana;2000;0;1.0;Africa do Sul;0.0;0.0
+96;Botsuana;Botswana;2001;0;2.0;Africa do Sul;0.0;0.0
+97;Botsuana;Botswana;2002;0;3.0;Africa do Sul;0.0;0.0
+98;Botsuana;Botswana;2003;0;4.0;Africa do Sul;0.0;0.0
+99;Botsuana;Botswana;2004;0;5.0;Africa do Sul;0.0;0.0
+100;Botsuana;Botswana;2005;0;6.0;Africa do Sul;1.0;1.0
+101;Botsuana;Botswana;2006;0;7.0;Africa do Sul;5.0;6.0
+102;Botsuana;Botswana;2007;1;8.0;Africa do Sul;2.0;8.0
+103;Gana;Ghana;1999;0;0.0;Africa Ocidental;0.0;0.0
+104;Gana;Ghana;2000;0;1.0;Africa Ocidental;0.0;0.0
+105;Gana;Ghana;2001;0;2.0;Africa Ocidental;0.0;0.0
+106;Gana;Ghana;2002;0;3.0;Africa Ocidental;0.0;0.0
+107;Gana;Ghana;2003;0;4.0;Africa Ocidental;2.0;2.0
+108;Gana;Ghana;2004;1;5.0;Africa Ocidental;4.0;6.0
+109;Quenia;Kenya;1999;0;0.0;Africa Oriental;0.0;0.0
+110;Quenia;Kenya;2000;0;1.0;Africa Oriental;0.0;0.0
+111;Quenia;Kenya;2001;0;2.0;Africa Oriental;0.0;0.0
+112;Quenia;Kenya;2002;0;3.0;Africa Oriental;0.0;0.0
+113;Quenia;Kenya;2003;0;4.0;Africa Oriental;0.0;0.0
+114;Quenia;Kenya;2004;0;5.0;Africa Oriental;1.0;1.0
+115;Quenia;Kenya;2005;0;6.0;Africa Oriental;4.0;5.0
+116;Quenia;Kenya;2006;1;7.0;Africa Oriental;10.0;15.0
+117;Tanzania;Tanzania;1999;0;0.0;Africa Oriental;0.0;0.0
+118;Tanzania;Tanzania;2000;0;1.0;Africa Oriental;0.0;0.0
+119;Tanzania;Tanzania;2001;0;2.0;Africa Oriental;0.0;0.0
+120;Tanzania;Tanzania;2002;0;3.0;Africa Oriental;0.0;0.0
+121;Tanzania;Tanzania;2003;0;4.0;Africa Oriental;0.0;0.0
+122;Tanzania;Tanzania;2004;0;5.0;Africa Oriental;1.0;1.0
+123;Tanzania;Tanzania;2005;0;6.0;Africa Oriental;4.0;5.0
+124;Tanzania;Tanzania;2006;0;7.0;Africa Oriental;10.0;15.0
+125;Tanzania;Tanzania;2007;0;8.0;Africa Oriental;14.0;29.0
+126;Tanzania;Tanzania;2008;0;9.0;Africa Oriental;21.0;50.0
+127;Tanzania;Tanzania;2009;1;10.0;Africa Oriental;21.0;71.0
+128;Zambia;Zambia;1999;0;0.0;Africa Oriental;0.0;0.0
+129;Zambia;Zambia;2000;0;1.0;Africa Oriental;0.0;0.0
+130;Zambia;Zambia;2001;0;2.0;Africa Oriental;0.0;0.0
+131;Zambia;Zambia;2002;0;3.0;Africa Oriental;0.0;0.0
+132;Zambia;Zambia;2003;0;4.0;Africa Oriental;0.0;0.0
+133;Zambia;Zambia;2004;0;5.0;Africa Oriental;1.0;1.0
+134;Zambia;Zambia;2005;1;6.0;Africa Oriental;4.0;5.0
+135;Republica Democratica do Congo;Congo, Democratic Republic;1999;0;0.0;Africa Central;0.0;0.0
+136;Republica Democratica do Congo;Congo, Democratic Republic;2000;0;1.0;Africa Central;0.0;0.0
+137;Republica Democratica do Congo;Congo, Democratic Republic;2001;0;2.0;Africa Central;0.0;0.0
+138;Republica Democratica do Congo;Congo, Democratic Republic;2002;0;3.0;Africa Central;0.0;0.0
+139;Republica Democratica do Congo;Congo, Democratic Republic;2003;0;4.0;Africa Central;1.0;1.0
+140;Republica Democratica do Congo;Congo, Democratic Republic;2004;0;5.0;Africa Central;1.0;2.0
+141;Republica Democratica do Congo;Congo, Democratic Republic;2005;0;6.0;Africa Central;8.0;10.0
+142;Republica Democratica do Congo;Congo, Democratic Republic;2006;0;7.0;Africa Central;6.0;16.0
+143;Republica Democratica do Congo;Congo, Democratic Republic;2007;1;8.0;Africa Central;22.0;38.0
+144;Republica do Congo;Congo;1999;0;0.0;Africa Central;0.0;0.0
+145;Republica do Congo;Congo;2000;0;1.0;Africa Central;0.0;0.0
+146;Republica do Congo;Congo;2001;0;2.0;Africa Central;0.0;0.0
+147;Republica do Congo;Congo;2002;0;3.0;Africa Central;0.0;0.0
+148;Republica do Congo;Congo;2003;0;4.0;Africa Central;1.0;1.0
+149;Republica do Congo;Congo;2004;0;5.0;Africa Central;1.0;2.0
+150;Republica do Congo;Congo;2005;0;6.0;Africa Central;8.0;10.0
+151;Republica do Congo;Congo;2006;0;7.0;Africa Central;6.0;16.0
+152;Republica do Congo;Congo;2007;1;8.0;Africa Central;22.0;38.0
+153;Camaroes;Cameroon;1999;0;0.0;Africa Central;0.0;0.0
+154;Camaroes;Cameroon;2000;0;1.0;Africa Central;0.0;0.0
+155;Camaroes;Cameroon;2001;0;2.0;Africa Central;0.0;0.0
+156;Camaroes;Cameroon;2002;0;3.0;Africa Central;0.0;0.0
+157;Camaroes;Cameroon;2003;0;4.0;Africa Central;1.0;1.0
+158;Camaroes;Cameroon;2004;0;5.0;Africa Central;1.0;2.0
+159;Camaroes;Cameroon;2005;0;6.0;Africa Central;8.0;10.0
+160;Camaroes;Cameroon;2006;0;7.0;Africa Central;6.0;16.0
+161;Camaroes;Cameroon;2007;1;8.0;Africa Central;22.0;38.0
+162;Egito;Egypt;1999;0;0.0;Africa do Norte;0.0;0.0
+163;Egito;Egypt;2000;0;1.0;Africa do Norte;0.0;0.0
+164;Egito;Egypt;2001;0;2.0;Africa do Norte;0.0;0.0
+165;Egito;Egypt;2002;0;3.0;Africa do Norte;0.0;0.0
+166;Egito;Egypt;2003;0;4.0;Africa do Norte;0.0;0.0
+167;Egito;Egypt;2004;0;5.0;Africa do Norte;0.0;0.0
+168;Egito;Egypt;2005;0;6.0;Africa do Norte;0.0;0.0
+169;Egito;Egypt;2006;0;7.0;Africa do Norte;1.0;1.0
+170;Egito;Egypt;2007;1;8.0;Africa do Norte;9.0;10.0
+171;Etiopia;Ethiopia (1993-);1999;0;0.0;Africa Oriental;0.0;0.0
+172;Etiopia;Ethiopia (1993-);2000;0;1.0;Africa Oriental;0.0;0.0
+173;Etiopia;Ethiopia (1993-);2001;0;2.0;Africa Oriental;0.0;0.0
+174;Etiopia;Ethiopia (1993-);2002;0;3.0;Africa Oriental;0.0;0.0
+175;Etiopia;Ethiopia (1993-);2003;0;4.0;Africa Oriental;0.0;0.0
+176;Etiopia;Ethiopia (1993-);2004;0;5.0;Africa Oriental;1.0;1.0
+177;Etiopia;Ethiopia (1993-);2005;0;6.0;Africa Oriental;4.0;5.0
+178;Etiopia;Ethiopia (1993-);2006;0;7.0;Africa Oriental;10.0;15.0
+179;Etiopia;Ethiopia (1993-);2007;0;8.0;Africa Oriental;14.0;29.0
+180;Etiopia;Ethiopia (1993-);2008;1;9.0;Africa Oriental;21.0;50.0
+181;Gabao;Gabon;1999;0;0.0;Africa Central;0.0;0.0
+182;Gabao;Gabon;2000;0;1.0;Africa Central;0.0;0.0
+183;Gabao;Gabon;2001;0;2.0;Africa Central;0.0;0.0
+184;Gabao;Gabon;2002;0;3.0;Africa Central;0.0;0.0
+185;Gabao;Gabon;2003;0;4.0;Africa Central;1.0;1.0
+186;Gabao;Gabon;2004;1;5.0;Africa Central;1.0;2.0
+187;Gambia;Gambia;1999;0;0.0;Africa Ocidental;0.0;0.0
+188;Gambia;Gambia;2000;0;1.0;Africa Ocidental;0.0;0.0
+189;Gambia;Gambia;2001;0;2.0;Africa Ocidental;0.0;0.0
+190;Gambia;Gambia;2002;0;3.0;Africa Ocidental;0.0;0.0
+191;Gambia;Gambia;2003;0;4.0;Africa Ocidental;2.0;2.0
+192;Gambia;Gambia;2004;0;5.0;Africa Ocidental;4.0;6.0
+193;Gambia;Gambia;2005;0;6.0;Africa Ocidental;13.0;19.0
+194;Gambia;Gambia;2006;1;7.0;Africa Ocidental;20.0;39.0
+195;Guine;Guinea;1999;0;0.0;Africa Ocidental;0.0;0.0
+196;Guine;Guinea;2000;0;1.0;Africa Ocidental;0.0;0.0
+197;Guine;Guinea;2001;0;2.0;Africa Ocidental;0.0;0.0
+198;Guine;Guinea;2002;0;3.0;Africa Ocidental;0.0;0.0
+199;Guine;Guinea;2003;0;4.0;Africa Ocidental;2.0;2.0
+200;Guine;Guinea;2004;0;5.0;Africa Ocidental;4.0;6.0
+201;Guine;Guinea;2005;0;6.0;Africa Ocidental;13.0;19.0
+202;Guine;Guinea;2006;0;7.0;Africa Ocidental;20.0;39.0
+203;Guine;Guinea;2007;0;8.0;Africa Ocidental;34.0;73.0
+204;Guine;Guinea;2008;1;9.0;Africa Ocidental;35.0;108.0
+205;Guine Equatorial;Equatorial Guinea;1999;0;0.0;Africa Central;0.0;0.0
+206;Guine Equatorial;Equatorial Guinea;2000;0;1.0;Africa Central;0.0;0.0
+207;Guine Equatorial;Equatorial Guinea;2001;0;2.0;Africa Central;0.0;0.0
+208;Guine Equatorial;Equatorial Guinea;2002;0;3.0;Africa Central;0.0;0.0
+209;Guine Equatorial;Equatorial Guinea;2003;0;4.0;Africa Central;1.0;1.0
+210;Guine Equatorial;Equatorial Guinea;2004;0;5.0;Africa Central;1.0;2.0
+211;Guine Equatorial;Equatorial Guinea;2005;0;6.0;Africa Central;8.0;10.0
+212;Guine Equatorial;Equatorial Guinea;2006;0;7.0;Africa Central;6.0;16.0
+213;Guine Equatorial;Equatorial Guinea;2007;0;8.0;Africa Central;22.0;38.0
+214;Guine Equatorial;Equatorial Guinea;2008;0;9.0;Africa Central;18.0;56.0
+215;Guine Equatorial;Equatorial Guinea;2009;1;10.0;Africa Central;22.0;78.0
+216;Liberia;Liberia;1999;0;0.0;Africa Ocidental;0.0;0.0
+217;Liberia;Liberia;2000;0;1.0;Africa Ocidental;0.0;0.0
+218;Liberia;Liberia;2001;0;2.0;Africa Ocidental;0.0;0.0
+219;Liberia;Liberia;2002;0;3.0;Africa Ocidental;0.0;0.0
+220;Liberia;Liberia;2003;0;4.0;Africa Ocidental;2.0;2.0
+221;Liberia;Liberia;2004;0;5.0;Africa Ocidental;4.0;6.0
+222;Liberia;Liberia;2005;1;6.0;Africa Ocidental;13.0;19.0
+223;Serra Leoa;Sierra Leone;1999;0;0.0;Africa Ocidental;0.0;0.0
+224;Serra Leoa;Sierra Leone;2000;0;1.0;Africa Ocidental;0.0;0.0
+225;Serra Leoa;Sierra Leone;2001;0;2.0;Africa Ocidental;0.0;0.0
+226;Serra Leoa;Sierra Leone;2002;0;3.0;Africa Ocidental;0.0;0.0
+227;Serra Leoa;Sierra Leone;2003;0;4.0;Africa Ocidental;2.0;2.0
+228;Serra Leoa;Sierra Leone;2004;0;5.0;Africa Ocidental;4.0;6.0
+229;Serra Leoa;Sierra Leone;2005;0;6.0;Africa Ocidental;13.0;19.0
+230;Serra Leoa;Sierra Leone;2006;0;7.0;Africa Ocidental;20.0;39.0
+231;Serra Leoa;Sierra Leone;2007;0;8.0;Africa Ocidental;34.0;73.0
+232;Serra Leoa;Sierra Leone;2008;0;9.0;Africa Ocidental;35.0;108.0
+233;Serra Leoa;Sierra Leone;2009;1;10.0;Africa Ocidental;36.0;144.0
+234;Malaui;Malawi;1999;0;0.0;Africa Oriental;0.0;0.0
+235;Malaui;Malawi;2000;0;1.0;Africa Oriental;0.0;0.0
+236;Malaui;Malawi;2001;0;2.0;Africa Oriental;0.0;0.0
+237;Malaui;Malawi;2002;0;3.0;Africa Oriental;0.0;0.0
+238;Malaui;Malawi;2003;0;4.0;Africa Oriental;0.0;0.0
+239;Malaui;Malawi;2004;0;5.0;Africa Oriental;1.0;1.0
+240;Malaui;Malawi;2005;0;6.0;Africa Oriental;4.0;5.0
+241;Malaui;Malawi;2006;0;7.0;Africa Oriental;10.0;15.0
+242;Malaui;Malawi;2007;0;8.0;Africa Oriental;14.0;29.0
+243;Malaui;Malawi;2008;0;9.0;Africa Oriental;21.0;50.0
+244;Malaui;Malawi;2009;1;10.0;Africa Oriental;21.0;71.0
+245;Marrocos;Morocco;1999;0;0.0;Africa do Norte;0.0;0.0
+246;Marrocos;Morocco;2000;0;1.0;Africa do Norte;0.0;0.0
+247;Marrocos;Morocco;2001;0;2.0;Africa do Norte;0.0;0.0
+248;Marrocos;Morocco;2002;0;3.0;Africa do Norte;0.0;0.0
+249;Marrocos;Morocco;2003;0;4.0;Africa do Norte;0.0;0.0
+250;Marrocos;Morocco;2004;0;5.0;Africa do Norte;0.0;0.0
+251;Marrocos;Morocco;2005;0;6.0;Africa do Norte;0.0;0.0
+252;Marrocos;Morocco;2006;0;7.0;Africa do Norte;1.0;1.0
+253;Marrocos;Morocco;2007;1;8.0;Africa do Norte;9.0;10.0
+254;Mauritania;Mauritania;1999;0;0.0;Africa Ocidental;0.0;0.0
+255;Mauritania;Mauritania;2000;0;1.0;Africa Ocidental;0.0;0.0
+256;Mauritania;Mauritania;2001;0;2.0;Africa Ocidental;0.0;0.0
+257;Mauritania;Mauritania;2002;0;3.0;Africa Ocidental;0.0;0.0
+258;Mauritania;Mauritania;2003;0;4.0;Africa Ocidental;2.0;2.0
+259;Mauritania;Mauritania;2004;0;5.0;Africa Ocidental;4.0;6.0
+260;Mauritania;Mauritania;2005;0;6.0;Africa Ocidental;13.0;19.0
+261;Mauritania;Mauritania;2006;0;7.0;Africa Ocidental;20.0;39.0
+262;Mauritania;Mauritania;2007;0;8.0;Africa Ocidental;34.0;73.0
+263;Mauritania;Mauritania;2008;0;9.0;Africa Ocidental;35.0;108.0
+264;Mauritania;Mauritania;2009;1;10.0;Africa Ocidental;36.0;144.0
+265;Nigeria;Niger;1999;0;0.0;Africa Ocidental;0.0;0.0
+266;Nigeria;Niger;2000;0;1.0;Africa Ocidental;0.0;0.0
+267;Nigeria;Niger;2001;0;2.0;Africa Ocidental;0.0;0.0
+268;Nigeria;Niger;2002;0;3.0;Africa Ocidental;0.0;0.0
+269;Nigeria;Niger;2003;0;4.0;Africa Ocidental;2.0;2.0
+270;Nigeria;Niger;2004;0;5.0;Africa Ocidental;4.0;6.0
+271;Nigeria;Niger;2005;1;6.0;Africa Ocidental;13.0;19.0
+272;Ruanda;Rwanda;1999;0;0.0;Africa Oriental;0.0;0.0
+273;Ruanda;Rwanda;2000;0;1.0;Africa Oriental;0.0;0.0
+274;Ruanda;Rwanda;2001;0;2.0;Africa Oriental;0.0;0.0
+275;Ruanda;Rwanda;2002;0;3.0;Africa Oriental;0.0;0.0
+276;Ruanda;Rwanda;2003;0;4.0;Africa Oriental;0.0;0.0
+277;Ruanda;Rwanda;2004;0;5.0;Africa Oriental;1.0;1.0
+278;Ruanda;Rwanda;2005;0;6.0;Africa Oriental;4.0;5.0
+279;Ruanda;Rwanda;2006;0;7.0;Africa Oriental;10.0;15.0
+280;Ruanda;Rwanda;2007;0;8.0;Africa Oriental;14.0;29.0
+281;Ruanda;Rwanda;2008;1;9.0;Africa Oriental;21.0;50.0
+282;Uganda;Uganda;1999;0;0.0;Africa Oriental;0.0;0.0
+283;Uganda;Uganda;2000;0;1.0;Africa Oriental;0.0;0.0
+284;Uganda;Uganda;2001;0;2.0;Africa Oriental;0.0;0.0
+285;Uganda;Uganda;2002;0;3.0;Africa Oriental;0.0;0.0
+286;Uganda;Uganda;2003;0;4.0;Africa Oriental;0.0;0.0
+287;Uganda;Uganda;2004;0;5.0;Africa Oriental;1.0;1.0
+288;Uganda;Uganda;2005;0;6.0;Africa Oriental;4.0;5.0
+289;Uganda;Uganda;2006;0;7.0;Africa Oriental;10.0;15.0
+290;Uganda;Uganda;2007;0;8.0;Africa Oriental;14.0;29.0
+291;Uganda;Uganda;2008;1;9.0;Africa Oriental;21.0;50.0
+292;Senegal;Senegal;1999;0;0.0;Africa Ocidental;0.0;0.0
+293;Senegal;Senegal;2000;0;1.0;Africa Ocidental;0.0;0.0
+294;Senegal;Senegal;2001;0;2.0;Africa Ocidental;0.0;0.0
+295;Senegal;Senegal;2002;0;3.0;Africa Ocidental;0.0;0.0
+296;Senegal;Senegal;2003;0;4.0;Africa Ocidental;2.0;2.0
+297;Senegal;Senegal;2004;0;5.0;Africa Ocidental;4.0;6.0
+298;Senegal;Senegal;2005;1;6.0;Africa Ocidental;13.0;19.0
+299;Sudao;Sudan (-2011);1999;0;0.0;Africa do Norte;0.0;0.0
+300;Sudao;Sudan (-2011);2000;0;1.0;Africa do Norte;0.0;0.0
+301;Sudao;Sudan (-2011);2001;0;2.0;Africa do Norte;0.0;0.0
+302;Sudao;Sudan (-2011);2002;0;3.0;Africa do Norte;0.0;0.0
+303;Sudao;Sudan (-2011);2003;0;4.0;Africa do Norte;0.0;0.0
+304;Sudao;Sudan (-2011);2004;0;5.0;Africa do Norte;0.0;0.0
+305;Sudao;Sudan (-2011);2005;0;6.0;Africa do Norte;0.0;0.0
+306;Sudao;Sudan (-2011);2006;0;7.0;Africa do Norte;1.0;1.0
+307;Sudao;Sudan (-2011);2007;0;8.0;Africa do Norte;9.0;10.0
+308;Sudao;Sudan (-2011);2008;0;9.0;Africa do Norte;4.0;14.0
+309;Sudao;Sudan (-2011);2009;0;10.0;Africa do Norte;4.0;18.0
+310;Sudao;Sudan (-2011);2010;1;11.0;Africa do Norte;6.0;24.0
+311;Tunisia;Tunisia;1999;0;0.0;Africa do Norte;0.0;0.0
+312;Tunisia;Tunisia;2000;0;1.0;Africa do Norte;0.0;0.0
+313;Tunisia;Tunisia;2001;0;2.0;Africa do Norte;0.0;0.0
+314;Tunisia;Tunisia;2002;0;3.0;Africa do Norte;0.0;0.0
+315;Tunisia;Tunisia;2003;0;4.0;Africa do Norte;0.0;0.0
+316;Tunisia;Tunisia;2004;0;5.0;Africa do Norte;0.0;0.0
+317;Tunisia;Tunisia;2005;0;6.0;Africa do Norte;0.0;0.0
+318;Tunisia;Tunisia;2006;1;7.0;Africa do Norte;1.0;1.0
+319;Zimbabue;Zimbabwe;1999;0;0.0;Africa Oriental;0.0;0.0
+320;Zimbabue;Zimbabwe;2000;0;1.0;Africa Oriental;0.0;0.0
+321;Zimbabue;Zimbabwe;2001;0;2.0;Africa Oriental;0.0;0.0
+322;Zimbabue;Zimbabwe;2002;0;3.0;Africa Oriental;0.0;0.0
+323;Zimbabue;Zimbabwe;2003;0;4.0;Africa Oriental;0.0;0.0
+324;Zimbabue;Zimbabwe;2004;0;5.0;Africa Oriental;1.0;1.0
+325;Zimbabue;Zimbabwe;2005;1;6.0;Africa Oriental;4.0;5.0
