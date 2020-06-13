@@ -385,8 +385,8 @@ inst['instituicoes_com_palop'] = inst['African Union'] + inst['Community of Sahe
 dataset = pd.merge(dataset, inst[['instituicoes_com_palop', 'country']], on='country')
 
 # remover casos 
-dataset = dataset[~dataset['country'].isin(['Angola','Cape Verde', 'Equatorial Guinea', 
-                                        'Guinea-Bissau', 'Mozambique', 'Sao Tome and Principe'])]
+#dataset = dataset[~dataset['country'].isin(['Angola','Cape Verde', 'Equatorial Guinea', 
+#                                        'Guinea-Bissau', 'Mozambique', 'Sao Tome and Principe'])]
 
 # selecionar variaveis
 dataset = dataset[['pais', 
@@ -407,6 +407,6 @@ dataset = dataset[['pais',
 
 
 # salvar base
-dataset.to_csv('resultados/DATASET_V2.csv')
+dataset.to_csv('resultados/DATASET_V3.csv')
 print(dataset.head())
 print('dataset saved')
