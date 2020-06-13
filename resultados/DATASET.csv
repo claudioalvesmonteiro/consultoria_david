@@ -1,327 +1,323 @@
-,pais,country,regiao,anos,inicio_projeto,anos_contagem,regiao_proj_noano,regiao_proj_acumulados,instituicoes_internacionais_proj_noano,instituicoes_internacionais_proj_acumulados,distancia_2palop,paises_2palop
-0,África do Sul,South Africa,África do Sul,1999,0,0.0,0.0,0.0,0.0,0.0,2888.8410323538537,Mozambique;Angola
-1,África do Sul,South Africa,África do Sul,2000,0,1.0,0.0,0.0,0.0,0.0,2888.8410323538537,Mozambique;Angola
-2,África do Sul,South Africa,África do Sul,2001,0,2.0,0.0,0.0,0.0,0.0,2888.8410323538537,Mozambique;Angola
-3,África do Sul,South Africa,África do Sul,2002,0,3.0,0.0,0.0,7.0,7.0,2888.8410323538537,Mozambique;Angola
-4,África do Sul,South Africa,África do Sul,2003,0,4.0,0.0,0.0,11.0,18.0,2888.8410323538537,Mozambique;Angola
-5,África do Sul,South Africa,África do Sul,2004,0,5.0,0.0,0.0,14.0,32.0,2888.8410323538537,Mozambique;Angola
-6,África do Sul,South Africa,África do Sul,2005,0,6.0,1.0,1.0,47.0,79.0,2888.8410323538537,Mozambique;Angola
-7,África do Sul,South Africa,África do Sul,2006,0,7.0,5.0,6.0,75.0,154.0,2888.8410323538537,Mozambique;Angola
-8,África do Sul,South Africa,África do Sul,2007,0,8.0,2.0,8.0,112.0,266.0,2888.8410323538537,Mozambique;Angola
-9,África do Sul,South Africa,África do Sul,2008,0,9.0,2.0,10.0,140.0,406.0,2888.8410323538537,Mozambique;Angola
-10,África do Sul,South Africa,África do Sul,2009,1,10.0,4.0,14.0,139.0,545.0,2888.8410323538537,Mozambique;Angola
-11,Namíbia,Namibia,África do Sul,1999,0,0.0,0.0,0.0,0.0,0.0,3189.9649372492804,Angola;Mozambique
-12,Namíbia,Namibia,África do Sul,2000,0,1.0,0.0,0.0,0.0,0.0,3189.9649372492804,Angola;Mozambique
-13,Namíbia,Namibia,África do Sul,2001,0,2.0,0.0,0.0,0.0,0.0,3189.9649372492804,Angola;Mozambique
-14,Namíbia,Namibia,África do Sul,2002,0,3.0,0.0,0.0,7.0,7.0,3189.9649372492804,Angola;Mozambique
-15,Namíbia,Namibia,África do Sul,2003,0,4.0,0.0,0.0,11.0,18.0,3189.9649372492804,Angola;Mozambique
-16,Namíbia,Namibia,África do Sul,2004,0,5.0,0.0,0.0,14.0,32.0,3189.9649372492804,Angola;Mozambique
-17,Namíbia,Namibia,África do Sul,2005,1,6.0,1.0,1.0,47.0,79.0,3189.9649372492804,Angola;Mozambique
-18,Moçambique,Mozambique,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,2787.798177020979,Mozambique;Angola
-19,Moçambique,Mozambique,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,2787.798177020979,Mozambique;Angola
-20,Moçambique,Mozambique,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,2787.798177020979,Mozambique;Angola
-21,Moçambique,Mozambique,África Oriental,2002,1,3.0,1.0,1.0,7.0,7.0,2787.798177020979,Mozambique;Angola
-22,Angola,Angola,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,1233.9892321369896,Angola;Sao Tome and Principe
-23,Angola,Angola,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,1233.9892321369896,Angola;Sao Tome and Principe
-24,Angola,Angola,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,1233.9892321369896,Angola;Sao Tome and Principe
-25,Angola,Angola,África Central,2002,1,3.0,2.0,2.0,9.0,9.0,1233.9892321369896,Angola;Sao Tome and Principe
-26,Cabo Verde,Cape Verde,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,914.6186224213444,Cape Verde;Guinea-Bissau
-27,Cabo Verde,Cape Verde,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,914.6186224213444,Cape Verde;Guinea-Bissau
-28,Cabo Verde,Cape Verde,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,914.6186224213444,Cape Verde;Guinea-Bissau
-29,Cabo Verde,Cape Verde,África Ocidental,2002,1,3.0,3.0,3.0,7.0,7.0,914.6186224213444,Cape Verde;Guinea-Bissau
-30,Guiné-Bissau,Guinea-Bissau,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,914.6186224213443,Guinea-Bissau;Cape Verde
-31,Guiné-Bissau,Guinea-Bissau,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,914.6186224213443,Guinea-Bissau;Cape Verde
-32,Guiné-Bissau,Guinea-Bissau,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,914.6186224213443,Guinea-Bissau;Cape Verde
-33,Guiné-Bissau,Guinea-Bissau,África Ocidental,2002,1,3.0,3.0,3.0,8.0,8.0,914.6186224213443,Guinea-Bissau;Cape Verde
-34,São Tomé e Príncipe,Sao Tome and Principe,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-35,São Tomé e Príncipe,Sao Tome and Principe,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-36,São Tomé e Príncipe,Sao Tome and Principe,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-37,São Tomé e Príncipe,Sao Tome and Principe,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-38,São Tomé e Príncipe,Sao Tome and Principe,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-39,São Tomé e Príncipe,Sao Tome and Principe,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-40,São Tomé e Príncipe,Sao Tome and Principe,África Central,2002,1,3.0,2.0,2.0,7.0,7.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-41,São Tomé e Príncipe,Sao Tome and Principe,África Ocidental,2002,1,3.0,3.0,3.0,7.0,7.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea
-42,Argélia,Algeria,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,6911.188387923628,Guinea-Bissau;Cape Verde
-43,Argélia,Algeria,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,6911.188387923628,Guinea-Bissau;Cape Verde
-44,Argélia,Algeria,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,6911.188387923628,Guinea-Bissau;Cape Verde
-45,Argélia,Algeria,África do Norte,2002,0,3.0,0.0,0.0,5.0,5.0,6911.188387923628,Guinea-Bissau;Cape Verde
-46,Argélia,Algeria,África do Norte,2003,0,4.0,0.0,0.0,8.0,13.0,6911.188387923628,Guinea-Bissau;Cape Verde
-47,Argélia,Algeria,África do Norte,2004,0,5.0,0.0,0.0,11.0,24.0,6911.188387923628,Guinea-Bissau;Cape Verde
-48,Argélia,Algeria,África do Norte,2005,0,6.0,0.0,0.0,33.0,57.0,6911.188387923628,Guinea-Bissau;Cape Verde
-49,Argélia,Algeria,África do Norte,2006,0,7.0,1.0,1.0,51.0,108.0,6911.188387923628,Guinea-Bissau;Cape Verde
-50,Argélia,Algeria,África do Norte,2007,1,8.0,9.0,10.0,89.0,197.0,6911.188387923628,Guinea-Bissau;Cape Verde
-51,Benin,Benin,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-52,Benin,Benin,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-53,Benin,Benin,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-54,Benin,Benin,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-55,Benin,Benin,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-56,Benin,Benin,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-57,Benin,Benin,África Ocidental,2005,0,6.0,20.0,35.0,55.0,97.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-58,Benin,Benin,África Ocidental,2006,1,7.0,26.0,61.0,92.0,189.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe
-59,Burkina-Faso,Burkina Faso,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-60,Burkina-Faso,Burkina Faso,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-61,Burkina-Faso,Burkina Faso,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-62,Burkina-Faso,Burkina Faso,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-63,Burkina-Faso,Burkina Faso,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-64,Burkina-Faso,Burkina Faso,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-65,Burkina-Faso,Burkina Faso,África Ocidental,2005,0,6.0,20.0,35.0,55.0,97.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-66,Burkina-Faso,Burkina Faso,África Ocidental,2006,1,7.0,26.0,61.0,96.0,193.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau
-67,Chade,Chad,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-68,Chade,Chad,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-69,Chade,Chad,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-70,Chade,Chad,África Central,2002,0,3.0,2.0,2.0,8.0,8.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-71,Chade,Chad,África Central,2003,0,4.0,3.0,5.0,13.0,21.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-72,Chade,Chad,África Central,2004,0,5.0,3.0,8.0,18.0,39.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-73,Chade,Chad,África Central,2005,0,6.0,12.0,20.0,53.0,91.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-74,Chade,Chad,África Central,2006,0,7.0,10.0,30.0,80.0,171.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-75,Chade,Chad,África Central,2007,1,8.0,27.0,57.0,151.0,323.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe
-76,Mali,Mali,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,2534.514013458259,Guinea-Bissau;Cape Verde
-77,Mali,Mali,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,2534.514013458259,Guinea-Bissau;Cape Verde
-78,Mali,Mali,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,2534.514013458259,Guinea-Bissau;Cape Verde
-79,Mali,Mali,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,2534.514013458259,Guinea-Bissau;Cape Verde
-80,Mali,Mali,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,2534.514013458259,Guinea-Bissau;Cape Verde
-81,Mali,Mali,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,2534.514013458259,Guinea-Bissau;Cape Verde
-82,Mali,Mali,África Ocidental,2005,1,6.0,20.0,35.0,55.0,97.0,2534.514013458259,Guinea-Bissau;Cape Verde
-83,Togo,Togo,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-84,Togo,Togo,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-85,Togo,Togo,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-86,Togo,Togo,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-87,Togo,Togo,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-88,Togo,Togo,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-89,Togo,Togo,África Ocidental,2005,0,6.0,20.0,35.0,54.0,96.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-90,Togo,Togo,África Ocidental,2006,0,7.0,26.0,61.0,89.0,185.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-91,Togo,Togo,África Ocidental,2007,0,8.0,39.0,100.0,137.0,322.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-92,Togo,Togo,África Ocidental,2008,0,9.0,50.0,150.0,166.0,488.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-93,Togo,Togo,África Ocidental,2009,1,10.0,50.0,200.0,157.0,645.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe
-94,Botsuana,Botswana,África do Sul,1999,0,0.0,0.0,0.0,0.0,0.0,2900.381410044008,Mozambique;Angola
-95,Botsuana,Botswana,África do Sul,2000,0,1.0,0.0,0.0,0.0,0.0,2900.381410044008,Mozambique;Angola
-96,Botsuana,Botswana,África do Sul,2001,0,2.0,0.0,0.0,0.0,0.0,2900.381410044008,Mozambique;Angola
-97,Botsuana,Botswana,África do Sul,2002,0,3.0,0.0,0.0,7.0,7.0,2900.381410044008,Mozambique;Angola
-98,Botsuana,Botswana,África do Sul,2003,0,4.0,0.0,0.0,11.0,18.0,2900.381410044008,Mozambique;Angola
-99,Botsuana,Botswana,África do Sul,2004,0,5.0,0.0,0.0,14.0,32.0,2900.381410044008,Mozambique;Angola
-100,Botsuana,Botswana,África do Sul,2005,0,6.0,1.0,1.0,47.0,79.0,2900.381410044008,Mozambique;Angola
-101,Botsuana,Botswana,África do Sul,2006,0,7.0,5.0,6.0,75.0,154.0,2900.381410044008,Mozambique;Angola
-102,Botsuana,Botswana,África do Sul,2007,1,8.0,2.0,8.0,112.0,266.0,2900.381410044008,Mozambique;Angola
-103,Gana,Ghana,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea
-104,Gana,Ghana,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea
-105,Gana,Ghana,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea
-106,Gana,Ghana,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea
-107,Gana,Ghana,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea
-108,Gana,Ghana,África Ocidental,2004,1,5.0,7.0,15.0,20.0,42.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea
-109,Quênia,Kenya,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,5512.1819763992835,Angola;Mozambique
-110,Quênia,Kenya,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,5512.1819763992835,Angola;Mozambique
-111,Quênia,Kenya,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,5512.1819763992835,Angola;Mozambique
-112,Quênia,Kenya,África Oriental,2002,0,3.0,1.0,1.0,5.0,5.0,5512.1819763992835,Angola;Mozambique
-113,Quênia,Kenya,África Oriental,2003,0,4.0,1.0,2.0,8.0,13.0,5512.1819763992835,Angola;Mozambique
-114,Quênia,Kenya,África Oriental,2004,0,5.0,2.0,4.0,11.0,24.0,5512.1819763992835,Angola;Mozambique
-115,Quênia,Kenya,África Oriental,2005,0,6.0,6.0,10.0,35.0,59.0,5512.1819763992835,Angola;Mozambique
-116,Quênia,Kenya,África Oriental,2006,1,7.0,12.0,22.0,60.0,119.0,5512.1819763992835,Angola;Mozambique
-117,Tanzânia,"Tanzania, United Rep. of ",África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,4715.631117895931,Mozambique;Angola
-118,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,4715.631117895931,Mozambique;Angola
-119,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,4715.631117895931,Mozambique;Angola
-120,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,4715.631117895931,Mozambique;Angola
-121,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,4715.631117895931,Mozambique;Angola
-122,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,4715.631117895931,Mozambique;Angola
-123,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2005,0,6.0,6.0,10.0,46.0,78.0,4715.631117895931,Mozambique;Angola
-124,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2006,0,7.0,12.0,22.0,74.0,152.0,4715.631117895931,Mozambique;Angola
-125,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2007,0,8.0,15.0,37.0,115.0,267.0,4715.631117895931,Mozambique;Angola
-126,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2008,0,9.0,28.0,65.0,148.0,415.0,4715.631117895931,Mozambique;Angola
-127,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2009,1,10.0,25.0,90.0,143.0,558.0,4715.631117895931,Mozambique;Angola
-128,Zâmbia,Zambia,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,3036.5953539449647,Mozambique;Angola
-129,Zâmbia,Zambia,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,3036.5953539449647,Mozambique;Angola
-130,Zâmbia,Zambia,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,3036.5953539449647,Mozambique;Angola
-131,Zâmbia,Zambia,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,3036.5953539449647,Mozambique;Angola
-132,Zâmbia,Zambia,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,3036.5953539449647,Mozambique;Angola
-133,Zâmbia,Zambia,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,3036.5953539449647,Mozambique;Angola
-134,Zâmbia,Zambia,África Oriental,2005,1,6.0,6.0,10.0,48.0,80.0,3036.5953539449647,Mozambique;Angola
-135,República Democrática do Congo,Congo (Democratic Republic of the),África Central,1999,0,0.0,0.0,0.0,0.0,0.0,1626.7319838546903,Angola;Sao Tome and Principe
-136,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2000,0,1.0,0.0,0.0,0.0,0.0,1626.7319838546903,Angola;Sao Tome and Principe
-137,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2001,0,2.0,0.0,0.0,0.0,0.0,1626.7319838546903,Angola;Sao Tome and Principe
-138,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2002,0,3.0,2.0,2.0,7.0,7.0,1626.7319838546903,Angola;Sao Tome and Principe
-139,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2003,0,4.0,3.0,5.0,11.0,18.0,1626.7319838546903,Angola;Sao Tome and Principe
-140,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2004,0,5.0,3.0,8.0,14.0,32.0,1626.7319838546903,Angola;Sao Tome and Principe
-141,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2005,0,6.0,12.0,20.0,47.0,79.0,1626.7319838546903,Angola;Sao Tome and Principe
-142,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2006,0,7.0,10.0,30.0,63.0,142.0,1626.7319838546903,Angola;Sao Tome and Principe
-143,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2007,1,8.0,27.0,57.0,116.0,258.0,1626.7319838546903,Angola;Sao Tome and Principe
-144,República do Congo,Congo,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,1620.5490368875514,Angola;Sao Tome and Principe
-145,República do Congo,Congo,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,1620.5490368875514,Angola;Sao Tome and Principe
-146,República do Congo,Congo,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,1620.5490368875514,Angola;Sao Tome and Principe
-147,República do Congo,Congo,África Central,2002,0,3.0,2.0,2.0,9.0,9.0,1620.5490368875514,Angola;Sao Tome and Principe
-148,República do Congo,Congo,África Central,2003,0,4.0,3.0,5.0,14.0,23.0,1620.5490368875514,Angola;Sao Tome and Principe
-149,República do Congo,Congo,África Central,2004,0,5.0,3.0,8.0,18.0,41.0,1620.5490368875514,Angola;Sao Tome and Principe
-150,República do Congo,Congo,África Central,2005,0,6.0,12.0,20.0,58.0,98.0,1620.5490368875514,Angola;Sao Tome and Principe
-151,República do Congo,Congo,África Central,2006,0,7.0,10.0,30.0,80.0,178.0,1620.5490368875514,Angola;Sao Tome and Principe
-152,República do Congo,Congo,África Central,2007,1,8.0,27.0,57.0,141.0,320.0,1620.5490368875514,Angola;Sao Tome and Principe
-153,Camarões,Cameroon,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-154,Camarões,Cameroon,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-155,Camarões,Cameroon,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-156,Camarões,Cameroon,África Central,2002,0,3.0,2.0,2.0,7.0,7.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-157,Camarões,Cameroon,África Central,2003,0,4.0,3.0,5.0,11.0,18.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-158,Camarões,Cameroon,África Central,2004,0,5.0,3.0,8.0,15.0,33.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-159,Camarões,Cameroon,África Central,2005,0,6.0,12.0,20.0,45.0,77.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-160,Camarões,Cameroon,África Central,2006,0,7.0,10.0,30.0,60.0,137.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-161,Camarões,Cameroon,África Central,2007,1,8.0,27.0,57.0,113.0,251.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe
-162,Egito,Egypt,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-163,Egito,Egypt,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-164,Egito,Egypt,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-165,Egito,Egypt,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-166,Egito,Egypt,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-167,Egito,Egypt,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-168,Egito,Egypt,África do Norte,2005,0,6.0,0.0,0.0,42.0,72.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-169,Egito,Egypt,África do Norte,2006,0,7.0,1.0,1.0,70.0,142.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-170,Egito,Egypt,África do Norte,2007,1,8.0,9.0,10.0,115.0,257.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe
-171,Etiópia,Ethiopia,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,6829.924825736633,Equatorial Guinea;Angola
-172,Etiópia,Ethiopia,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,6829.924825736633,Equatorial Guinea;Angola
-173,Etiópia,Ethiopia,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,6829.924825736633,Equatorial Guinea;Angola
-174,Etiópia,Ethiopia,África Oriental,2002,0,3.0,1.0,1.0,5.0,5.0,6829.924825736633,Equatorial Guinea;Angola
-175,Etiópia,Ethiopia,África Oriental,2003,0,4.0,1.0,2.0,8.0,13.0,6829.924825736633,Equatorial Guinea;Angola
-176,Etiópia,Ethiopia,África Oriental,2004,0,5.0,2.0,4.0,11.0,24.0,6829.924825736633,Equatorial Guinea;Angola
-177,Etiópia,Ethiopia,África Oriental,2005,0,6.0,6.0,10.0,35.0,59.0,6829.924825736633,Equatorial Guinea;Angola
-178,Etiópia,Ethiopia,África Oriental,2006,0,7.0,12.0,22.0,56.0,115.0,6829.924825736633,Equatorial Guinea;Angola
-179,Etiópia,Ethiopia,África Oriental,2007,0,8.0,15.0,37.0,91.0,206.0,6829.924825736633,Equatorial Guinea;Angola
-180,Etiópia,Ethiopia,África Oriental,2008,1,9.0,28.0,65.0,118.0,324.0,6829.924825736633,Equatorial Guinea;Angola
-181,Gabão,Gabon,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea
-182,Gabão,Gabon,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea
-183,Gabão,Gabon,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea
-184,Gabão,Gabon,África Central,2002,0,3.0,2.0,2.0,7.0,7.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea
-185,Gabão,Gabon,África Central,2003,0,4.0,3.0,5.0,11.0,18.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea
-186,Gabão,Gabon,África Central,2004,1,5.0,3.0,8.0,15.0,33.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea
-187,Gâmbia,Gambia,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,964.2472797161203,Guinea-Bissau;Cape Verde
-188,Gâmbia,Gambia,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,964.2472797161203,Guinea-Bissau;Cape Verde
-189,Gâmbia,Gambia,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,964.2472797161203,Guinea-Bissau;Cape Verde
-190,Gâmbia,Gambia,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,964.2472797161203,Guinea-Bissau;Cape Verde
-191,Gâmbia,Gambia,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,964.2472797161203,Guinea-Bissau;Cape Verde
-192,Gâmbia,Gambia,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,964.2472797161203,Guinea-Bissau;Cape Verde
-193,Gâmbia,Gambia,África Ocidental,2005,0,6.0,20.0,35.0,54.0,96.0,964.2472797161203,Guinea-Bissau;Cape Verde
-194,Gâmbia,Gambia,África Ocidental,2006,1,7.0,26.0,61.0,89.0,185.0,964.2472797161203,Guinea-Bissau;Cape Verde
-195,Guiné,Guinea,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-196,Guiné,Guinea,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-197,Guiné,Guinea,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-198,Guiné,Guinea,África Ocidental,2002,0,3.0,3.0,3.0,7.0,7.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-199,Guiné,Guinea,África Ocidental,2003,0,4.0,5.0,8.0,12.0,19.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-200,Guiné,Guinea,África Ocidental,2004,0,5.0,7.0,15.0,17.0,36.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-201,Guiné,Guinea,África Ocidental,2005,0,6.0,20.0,35.0,47.0,83.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-202,Guiné,Guinea,África Ocidental,2006,0,7.0,26.0,61.0,72.0,155.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-203,Guiné,Guinea,África Ocidental,2007,0,8.0,39.0,100.0,111.0,266.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-204,Guiné,Guinea,África Ocidental,2008,1,9.0,50.0,150.0,142.0,408.0,1296.1479435704946,Guinea-Bissau;Cape Verde
-205,Guiné Equatorial,Equatorial Guinea,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-206,Guiné Equatorial,Equatorial Guinea,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-207,Guiné Equatorial,Equatorial Guinea,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-208,Guiné Equatorial,Equatorial Guinea,África Central,2002,0,3.0,2.0,2.0,7.0,7.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-209,Guiné Equatorial,Equatorial Guinea,África Central,2003,0,4.0,3.0,5.0,11.0,18.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-210,Guiné Equatorial,Equatorial Guinea,África Central,2004,0,5.0,3.0,8.0,15.0,33.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-211,Guiné Equatorial,Equatorial Guinea,África Central,2005,0,6.0,12.0,20.0,45.0,77.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-212,Guiné Equatorial,Equatorial Guinea,África Central,2006,0,7.0,10.0,30.0,60.0,137.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-213,Guiné Equatorial,Equatorial Guinea,África Central,2007,0,8.0,27.0,57.0,113.0,251.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-214,Guiné Equatorial,Equatorial Guinea,África Central,2008,0,9.0,26.0,83.0,130.0,381.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-215,Guiné Equatorial,Equatorial Guinea,África Central,2009,1,10.0,30.0,113.0,133.0,514.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe
-216,Libéria,Liberia,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-217,Libéria,Liberia,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-218,Libéria,Liberia,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-219,Libéria,Liberia,África Ocidental,2002,0,3.0,3.0,3.0,7.0,7.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-220,Libéria,Liberia,África Ocidental,2003,0,4.0,5.0,8.0,12.0,19.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-221,Libéria,Liberia,África Ocidental,2004,0,5.0,7.0,15.0,17.0,36.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-222,Libéria,Liberia,África Ocidental,2005,1,6.0,20.0,35.0,47.0,83.0,2498.7112310782313,Guinea-Bissau;Cape Verde
-223,Serra Leoa,Sierra Leone,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-224,Serra Leoa,Sierra Leone,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-225,Serra Leoa,Sierra Leone,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-226,Serra Leoa,Sierra Leone,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-227,Serra Leoa,Sierra Leone,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-228,Serra Leoa,Sierra Leone,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-229,Serra Leoa,Sierra Leone,África Ocidental,2005,0,6.0,20.0,35.0,54.0,96.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-230,Serra Leoa,Sierra Leone,África Ocidental,2006,0,7.0,26.0,61.0,89.0,185.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-231,Serra Leoa,Sierra Leone,África Ocidental,2007,0,8.0,39.0,100.0,137.0,322.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-232,Serra Leoa,Sierra Leone,África Ocidental,2008,0,9.0,50.0,150.0,166.0,488.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-233,Serra Leoa,Sierra Leone,África Ocidental,2009,1,10.0,50.0,200.0,157.0,645.0,1773.9204016776182,Guinea-Bissau;Cape Verde
-234,Malaui,Malawi,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,3648.741375512087,Mozambique;Angola
-235,Malaui,Malawi,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,3648.741375512087,Mozambique;Angola
-236,Malaui,Malawi,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,3648.741375512087,Mozambique;Angola
-237,Malaui,Malawi,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,3648.741375512087,Mozambique;Angola
-238,Malaui,Malawi,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,3648.741375512087,Mozambique;Angola
-239,Malaui,Malawi,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,3648.741375512087,Mozambique;Angola
-240,Malaui,Malawi,África Oriental,2005,0,6.0,6.0,10.0,48.0,80.0,3648.741375512087,Mozambique;Angola
-241,Malaui,Malawi,África Oriental,2006,0,7.0,12.0,22.0,73.0,153.0,3648.741375512087,Mozambique;Angola
-242,Malaui,Malawi,África Oriental,2007,0,8.0,15.0,37.0,117.0,270.0,3648.741375512087,Mozambique;Angola
-243,Malaui,Malawi,África Oriental,2008,0,9.0,28.0,65.0,148.0,418.0,3648.741375512087,Mozambique;Angola
-244,Malaui,Malawi,África Oriental,2009,1,10.0,25.0,90.0,142.0,560.0,3648.741375512087,Mozambique;Angola
-245,Marrocos,Morocco,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,5311.987005813705,Guinea-Bissau;Cape Verde
-246,Marrocos,Morocco,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,5311.987005813705,Guinea-Bissau;Cape Verde
-247,Marrocos,Morocco,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,5311.987005813705,Guinea-Bissau;Cape Verde
-248,Marrocos,Morocco,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,5311.987005813705,Guinea-Bissau;Cape Verde
-249,Marrocos,Morocco,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,5311.987005813705,Guinea-Bissau;Cape Verde
-250,Marrocos,Morocco,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,5311.987005813705,Guinea-Bissau;Cape Verde
-251,Marrocos,Morocco,África do Norte,2005,0,6.0,0.0,0.0,40.0,70.0,5311.987005813705,Guinea-Bissau;Cape Verde
-252,Marrocos,Morocco,África do Norte,2006,0,7.0,1.0,1.0,68.0,138.0,5311.987005813705,Guinea-Bissau;Cape Verde
-253,Marrocos,Morocco,África do Norte,2007,1,8.0,9.0,10.0,115.0,253.0,5311.987005813705,Guinea-Bissau;Cape Verde
-254,Mauritânia,Mauritania,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-255,Mauritânia,Mauritania,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-256,Mauritânia,Mauritania,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-257,Mauritânia,Mauritania,África Ocidental,2002,0,3.0,3.0,3.0,6.0,6.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-258,Mauritânia,Mauritania,África Ocidental,2003,0,4.0,5.0,8.0,10.0,16.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-259,Mauritânia,Mauritania,África Ocidental,2004,0,5.0,7.0,15.0,14.0,30.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-260,Mauritânia,Mauritania,África Ocidental,2005,0,6.0,20.0,35.0,40.0,70.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-261,Mauritânia,Mauritania,África Ocidental,2006,0,7.0,26.0,61.0,68.0,138.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-262,Mauritânia,Mauritania,África Ocidental,2007,0,8.0,39.0,100.0,115.0,253.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-263,Mauritânia,Mauritania,África Ocidental,2008,0,9.0,50.0,150.0,129.0,382.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-264,Mauritânia,Mauritania,África Ocidental,2009,1,10.0,50.0,200.0,128.0,510.0,1576.0812438823973,Guinea-Bissau;Cape Verde
-265,Nigéria,Nigeria,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-266,Nigéria,Nigeria,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-267,Nigéria,Nigeria,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-268,Nigéria,Nigeria,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-269,Nigéria,Nigeria,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-270,Nigéria,Nigeria,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-271,Nigéria,Nigeria,África Ocidental,2005,1,6.0,20.0,35.0,54.0,96.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe
-272,Ruanda,Rwanda,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,4461.007288904881,Angola;Equatorial Guinea
-273,Ruanda,Rwanda,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,4461.007288904881,Angola;Equatorial Guinea
-274,Ruanda,Rwanda,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,4461.007288904881,Angola;Equatorial Guinea
-275,Ruanda,Rwanda,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,4461.007288904881,Angola;Equatorial Guinea
-276,Ruanda,Rwanda,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,4461.007288904881,Angola;Equatorial Guinea
-277,Ruanda,Rwanda,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,4461.007288904881,Angola;Equatorial Guinea
-278,Ruanda,Rwanda,África Oriental,2005,0,6.0,6.0,10.0,47.0,79.0,4461.007288904881,Angola;Equatorial Guinea
-279,Ruanda,Rwanda,África Oriental,2006,0,7.0,12.0,22.0,67.0,146.0,4461.007288904881,Angola;Equatorial Guinea
-280,Ruanda,Rwanda,África Oriental,2007,0,8.0,15.0,37.0,121.0,267.0,4461.007288904881,Angola;Equatorial Guinea
-281,Ruanda,Rwanda,África Oriental,2008,1,9.0,28.0,65.0,148.0,415.0,4461.007288904881,Angola;Equatorial Guinea
-282,Uganda,Uganda,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,5043.787648681142,Angola;Equatorial Guinea
-283,Uganda,Uganda,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,5043.787648681142,Angola;Equatorial Guinea
-284,Uganda,Uganda,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,5043.787648681142,Angola;Equatorial Guinea
-285,Uganda,Uganda,África Oriental,2002,0,3.0,1.0,1.0,5.0,5.0,5043.787648681142,Angola;Equatorial Guinea
-286,Uganda,Uganda,África Oriental,2003,0,4.0,1.0,2.0,8.0,13.0,5043.787648681142,Angola;Equatorial Guinea
-287,Uganda,Uganda,África Oriental,2004,0,5.0,2.0,4.0,11.0,24.0,5043.787648681142,Angola;Equatorial Guinea
-288,Uganda,Uganda,África Oriental,2005,0,6.0,6.0,10.0,35.0,59.0,5043.787648681142,Angola;Equatorial Guinea
-289,Uganda,Uganda,África Oriental,2006,0,7.0,12.0,22.0,60.0,119.0,5043.787648681142,Angola;Equatorial Guinea
-290,Uganda,Uganda,África Oriental,2007,0,8.0,15.0,37.0,96.0,215.0,5043.787648681142,Angola;Equatorial Guinea
-291,Uganda,Uganda,África Oriental,2008,1,9.0,28.0,65.0,128.0,343.0,5043.787648681142,Angola;Equatorial Guinea
-292,Senegal,Senegal,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1015.039351055657,Guinea-Bissau;Cape Verde
-293,Senegal,Senegal,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1015.039351055657,Guinea-Bissau;Cape Verde
-294,Senegal,Senegal,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1015.039351055657,Guinea-Bissau;Cape Verde
-295,Senegal,Senegal,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1015.039351055657,Guinea-Bissau;Cape Verde
-296,Senegal,Senegal,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1015.039351055657,Guinea-Bissau;Cape Verde
-297,Senegal,Senegal,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1015.039351055657,Guinea-Bissau;Cape Verde
-298,Senegal,Senegal,África Ocidental,2005,1,6.0,20.0,35.0,54.0,96.0,1015.039351055657,Guinea-Bissau;Cape Verde
-299,Sudão,Sudan,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-300,Sudão,Sudan,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-301,Sudão,Sudan,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-302,Sudão,Sudan,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-303,Sudão,Sudan,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-304,Sudão,Sudan,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-305,Sudão,Sudan,África do Norte,2005,0,6.0,0.0,0.0,42.0,72.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-306,Sudão,Sudan,África do Norte,2006,0,7.0,1.0,1.0,73.0,145.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-307,Sudão,Sudan,África do Norte,2007,0,8.0,9.0,10.0,117.0,262.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-308,Sudão,Sudan,África do Norte,2008,0,9.0,4.0,14.0,142.0,404.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-309,Sudão,Sudan,África do Norte,2009,0,10.0,4.0,18.0,133.0,537.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-310,Sudão,Sudan,África do Norte,2010,1,11.0,6.0,24.0,138.0,675.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe
-311,Tunísia,Tunisia,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-312,Tunísia,Tunisia,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-313,Tunísia,Tunisia,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-314,Tunísia,Tunisia,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-315,Tunísia,Tunisia,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-316,Tunísia,Tunisia,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-317,Tunísia,Tunisia,África do Norte,2005,0,6.0,0.0,0.0,40.0,70.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-318,Tunísia,Tunisia,África do Norte,2006,1,7.0,1.0,1.0,68.0,138.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau
-319,Zimbabue,Zimbabwe,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,3082.2907055455003,Mozambique;Angola
-320,Zimbabue,Zimbabwe,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,3082.2907055455003,Mozambique;Angola
-321,Zimbabue,Zimbabwe,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,3082.2907055455003,Mozambique;Angola
-322,Zimbabue,Zimbabwe,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,3082.2907055455003,Mozambique;Angola
-323,Zimbabue,Zimbabwe,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,3082.2907055455003,Mozambique;Angola
-324,Zimbabue,Zimbabwe,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,3082.2907055455003,Mozambique;Angola
-325,Zimbabue,Zimbabwe,África Oriental,2005,1,6.0,6.0,10.0,48.0,80.0,3082.2907055455003,Mozambique;Angola
+,pais,country,regiao,anos,inicio_projeto,anos_contagem,regiao_proj_noano,regiao_proj_acumulados,instituicoes_internacionais_proj_noano,instituicoes_internacionais_proj_acumulados,distancia_2palop,paises_2palop,instituicoes_com_palop
+0,África do Sul,South Africa,África do Sul,1999,0,0.0,0.0,0.0,0.0,0.0,2888.8410323538537,Mozambique;Angola,2
+1,África do Sul,South Africa,África do Sul,2000,0,1.0,0.0,0.0,0.0,0.0,2888.8410323538537,Mozambique;Angola,2
+2,África do Sul,South Africa,África do Sul,2001,0,2.0,0.0,0.0,0.0,0.0,2888.8410323538537,Mozambique;Angola,2
+3,África do Sul,South Africa,África do Sul,2002,0,3.0,0.0,0.0,7.0,7.0,2888.8410323538537,Mozambique;Angola,2
+4,África do Sul,South Africa,África do Sul,2003,0,4.0,0.0,0.0,11.0,18.0,2888.8410323538537,Mozambique;Angola,2
+5,África do Sul,South Africa,África do Sul,2004,0,5.0,0.0,0.0,14.0,32.0,2888.8410323538537,Mozambique;Angola,2
+6,África do Sul,South Africa,África do Sul,2005,0,6.0,1.0,1.0,47.0,79.0,2888.8410323538537,Mozambique;Angola,2
+7,África do Sul,South Africa,África do Sul,2006,0,7.0,5.0,6.0,75.0,154.0,2888.8410323538537,Mozambique;Angola,2
+8,África do Sul,South Africa,África do Sul,2007,0,8.0,2.0,8.0,112.0,266.0,2888.8410323538537,Mozambique;Angola,2
+9,África do Sul,South Africa,África do Sul,2008,0,9.0,2.0,10.0,140.0,406.0,2888.8410323538537,Mozambique;Angola,2
+10,África do Sul,South Africa,África do Sul,2009,1,10.0,4.0,14.0,139.0,545.0,2888.8410323538537,Mozambique;Angola,2
+11,Namíbia,Namibia,África do Sul,1999,0,0.0,0.0,0.0,0.0,0.0,3189.9649372492804,Angola;Mozambique,2
+12,Namíbia,Namibia,África do Sul,2000,0,1.0,0.0,0.0,0.0,0.0,3189.9649372492804,Angola;Mozambique,2
+13,Namíbia,Namibia,África do Sul,2001,0,2.0,0.0,0.0,0.0,0.0,3189.9649372492804,Angola;Mozambique,2
+14,Namíbia,Namibia,África do Sul,2002,0,3.0,0.0,0.0,7.0,7.0,3189.9649372492804,Angola;Mozambique,2
+15,Namíbia,Namibia,África do Sul,2003,0,4.0,0.0,0.0,11.0,18.0,3189.9649372492804,Angola;Mozambique,2
+16,Namíbia,Namibia,África do Sul,2004,0,5.0,0.0,0.0,14.0,32.0,3189.9649372492804,Angola;Mozambique,2
+17,Namíbia,Namibia,África do Sul,2005,1,6.0,1.0,1.0,47.0,79.0,3189.9649372492804,Angola;Mozambique,2
+18,Moçambique,Mozambique,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,2787.798177020979,Mozambique;Angola,2
+19,Moçambique,Mozambique,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,2787.798177020979,Mozambique;Angola,2
+20,Moçambique,Mozambique,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,2787.798177020979,Mozambique;Angola,2
+21,Moçambique,Mozambique,África Oriental,2002,1,3.0,1.0,1.0,7.0,7.0,2787.798177020979,Mozambique;Angola,2
+22,Angola,Angola,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,1233.9892321369896,Angola;Sao Tome and Principe,3
+23,Angola,Angola,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,1233.9892321369896,Angola;Sao Tome and Principe,3
+24,Angola,Angola,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,1233.9892321369896,Angola;Sao Tome and Principe,3
+25,Angola,Angola,África Central,2002,1,3.0,2.0,2.0,9.0,9.0,1233.9892321369896,Angola;Sao Tome and Principe,3
+26,Cabo Verde,Cape Verde,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,914.6186224213444,Cape Verde;Guinea-Bissau,2
+27,Cabo Verde,Cape Verde,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,914.6186224213444,Cape Verde;Guinea-Bissau,2
+28,Cabo Verde,Cape Verde,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,914.6186224213444,Cape Verde;Guinea-Bissau,2
+29,Cabo Verde,Cape Verde,África Ocidental,2002,1,3.0,3.0,3.0,7.0,7.0,914.6186224213444,Cape Verde;Guinea-Bissau,2
+30,Guiné-Bissau,Guinea-Bissau,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,914.6186224213443,Guinea-Bissau;Cape Verde,3
+31,Guiné-Bissau,Guinea-Bissau,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,914.6186224213443,Guinea-Bissau;Cape Verde,3
+32,Guiné-Bissau,Guinea-Bissau,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,914.6186224213443,Guinea-Bissau;Cape Verde,3
+33,Guiné-Bissau,Guinea-Bissau,África Ocidental,2002,1,3.0,3.0,3.0,8.0,8.0,914.6186224213443,Guinea-Bissau;Cape Verde,3
+34,São Tomé e Príncipe,Sao Tome and Principe,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea,2
+35,São Tomé e Príncipe,Sao Tome and Principe,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea,2
+36,São Tomé e Príncipe,Sao Tome and Principe,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea,2
+37,São Tomé e Príncipe,Sao Tome and Principe,África Central,2002,1,3.0,2.0,2.0,7.0,7.0,455.8459307556553,Sao Tome and Principe;Equatorial Guinea,2
+38,Argélia,Algeria,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+39,Argélia,Algeria,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+40,Argélia,Algeria,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+41,Argélia,Algeria,África do Norte,2002,0,3.0,0.0,0.0,5.0,5.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+42,Argélia,Algeria,África do Norte,2003,0,4.0,0.0,0.0,8.0,13.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+43,Argélia,Algeria,África do Norte,2004,0,5.0,0.0,0.0,11.0,24.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+44,Argélia,Algeria,África do Norte,2005,0,6.0,0.0,0.0,33.0,57.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+45,Argélia,Algeria,África do Norte,2006,0,7.0,1.0,1.0,51.0,108.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+46,Argélia,Algeria,África do Norte,2007,1,8.0,9.0,10.0,89.0,197.0,6911.188387923628,Guinea-Bissau;Cape Verde,1
+47,Benin,Benin,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+48,Benin,Benin,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+49,Benin,Benin,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+50,Benin,Benin,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+51,Benin,Benin,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+52,Benin,Benin,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+53,Benin,Benin,África Ocidental,2005,0,6.0,20.0,35.0,55.0,97.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+54,Benin,Benin,África Ocidental,2006,1,7.0,26.0,61.0,92.0,189.0,1555.405294296579,Equatorial Guinea;Sao Tome and Principe,3
+55,Burkina-Faso,Burkina Faso,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+56,Burkina-Faso,Burkina Faso,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+57,Burkina-Faso,Burkina Faso,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+58,Burkina-Faso,Burkina Faso,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+59,Burkina-Faso,Burkina Faso,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+60,Burkina-Faso,Burkina Faso,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+61,Burkina-Faso,Burkina Faso,África Ocidental,2005,0,6.0,20.0,35.0,55.0,97.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+62,Burkina-Faso,Burkina Faso,África Ocidental,2006,1,7.0,26.0,61.0,96.0,193.0,3016.15894810065,Equatorial Guinea;Guinea-Bissau,3
+63,Chade,Chad,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+64,Chade,Chad,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+65,Chade,Chad,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+66,Chade,Chad,África Central,2002,0,3.0,2.0,2.0,8.0,8.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+67,Chade,Chad,África Central,2003,0,4.0,3.0,5.0,13.0,21.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+68,Chade,Chad,África Central,2004,0,5.0,3.0,8.0,18.0,39.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+69,Chade,Chad,África Central,2005,0,6.0,12.0,20.0,53.0,91.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+70,Chade,Chad,África Central,2006,0,7.0,10.0,30.0,80.0,171.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+71,Chade,Chad,África Central,2007,1,8.0,27.0,57.0,151.0,323.0,2761.321961858511,Equatorial Guinea;Sao Tome and Principe,4
+72,Mali,Mali,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+73,Mali,Mali,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+74,Mali,Mali,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+75,Mali,Mali,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+76,Mali,Mali,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+77,Mali,Mali,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+78,Mali,Mali,África Ocidental,2005,1,6.0,20.0,35.0,55.0,97.0,2534.514013458259,Guinea-Bissau;Cape Verde,3
+79,Togo,Togo,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+80,Togo,Togo,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+81,Togo,Togo,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+82,Togo,Togo,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+83,Togo,Togo,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+84,Togo,Togo,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+85,Togo,Togo,África Ocidental,2005,0,6.0,20.0,35.0,54.0,96.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+86,Togo,Togo,África Ocidental,2006,0,7.0,26.0,61.0,89.0,185.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+87,Togo,Togo,África Ocidental,2007,0,8.0,39.0,100.0,137.0,322.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+88,Togo,Togo,África Ocidental,2008,0,9.0,50.0,150.0,166.0,488.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+89,Togo,Togo,África Ocidental,2009,1,10.0,50.0,200.0,157.0,645.0,1757.6000508814436,Equatorial Guinea;Sao Tome and Principe,3
+90,Botsuana,Botswana,África do Sul,1999,0,0.0,0.0,0.0,0.0,0.0,2900.381410044008,Mozambique;Angola,2
+91,Botsuana,Botswana,África do Sul,2000,0,1.0,0.0,0.0,0.0,0.0,2900.381410044008,Mozambique;Angola,2
+92,Botsuana,Botswana,África do Sul,2001,0,2.0,0.0,0.0,0.0,0.0,2900.381410044008,Mozambique;Angola,2
+93,Botsuana,Botswana,África do Sul,2002,0,3.0,0.0,0.0,7.0,7.0,2900.381410044008,Mozambique;Angola,2
+94,Botsuana,Botswana,África do Sul,2003,0,4.0,0.0,0.0,11.0,18.0,2900.381410044008,Mozambique;Angola,2
+95,Botsuana,Botswana,África do Sul,2004,0,5.0,0.0,0.0,14.0,32.0,2900.381410044008,Mozambique;Angola,2
+96,Botsuana,Botswana,África do Sul,2005,0,6.0,1.0,1.0,47.0,79.0,2900.381410044008,Mozambique;Angola,2
+97,Botsuana,Botswana,África do Sul,2006,0,7.0,5.0,6.0,75.0,154.0,2900.381410044008,Mozambique;Angola,2
+98,Botsuana,Botswana,África do Sul,2007,1,8.0,2.0,8.0,112.0,266.0,2900.381410044008,Mozambique;Angola,2
+99,Gana,Ghana,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea,3
+100,Gana,Ghana,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea,3
+101,Gana,Ghana,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea,3
+102,Gana,Ghana,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea,3
+103,Gana,Ghana,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea,3
+104,Gana,Ghana,África Ocidental,2004,1,5.0,7.0,15.0,20.0,42.0,1998.0500927567077,Sao Tome and Principe;Equatorial Guinea,3
+105,Quênia,Kenya,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,5512.1819763992835,Angola;Mozambique,1
+106,Quênia,Kenya,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,5512.1819763992835,Angola;Mozambique,1
+107,Quênia,Kenya,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,5512.1819763992835,Angola;Mozambique,1
+108,Quênia,Kenya,África Oriental,2002,0,3.0,1.0,1.0,5.0,5.0,5512.1819763992835,Angola;Mozambique,1
+109,Quênia,Kenya,África Oriental,2003,0,4.0,1.0,2.0,8.0,13.0,5512.1819763992835,Angola;Mozambique,1
+110,Quênia,Kenya,África Oriental,2004,0,5.0,2.0,4.0,11.0,24.0,5512.1819763992835,Angola;Mozambique,1
+111,Quênia,Kenya,África Oriental,2005,0,6.0,6.0,10.0,35.0,59.0,5512.1819763992835,Angola;Mozambique,1
+112,Quênia,Kenya,África Oriental,2006,1,7.0,12.0,22.0,60.0,119.0,5512.1819763992835,Angola;Mozambique,1
+113,Tanzânia,"Tanzania, United Rep. of ",África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,4715.631117895931,Mozambique;Angola,2
+114,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,4715.631117895931,Mozambique;Angola,2
+115,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,4715.631117895931,Mozambique;Angola,2
+116,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,4715.631117895931,Mozambique;Angola,2
+117,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,4715.631117895931,Mozambique;Angola,2
+118,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,4715.631117895931,Mozambique;Angola,2
+119,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2005,0,6.0,6.0,10.0,46.0,78.0,4715.631117895931,Mozambique;Angola,2
+120,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2006,0,7.0,12.0,22.0,74.0,152.0,4715.631117895931,Mozambique;Angola,2
+121,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2007,0,8.0,15.0,37.0,115.0,267.0,4715.631117895931,Mozambique;Angola,2
+122,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2008,0,9.0,28.0,65.0,148.0,415.0,4715.631117895931,Mozambique;Angola,2
+123,Tanzânia,"Tanzania, United Rep. of ",África Oriental,2009,1,10.0,25.0,90.0,143.0,558.0,4715.631117895931,Mozambique;Angola,2
+124,Zâmbia,Zambia,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,3036.5953539449647,Mozambique;Angola,2
+125,Zâmbia,Zambia,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,3036.5953539449647,Mozambique;Angola,2
+126,Zâmbia,Zambia,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,3036.5953539449647,Mozambique;Angola,2
+127,Zâmbia,Zambia,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,3036.5953539449647,Mozambique;Angola,2
+128,Zâmbia,Zambia,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,3036.5953539449647,Mozambique;Angola,2
+129,Zâmbia,Zambia,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,3036.5953539449647,Mozambique;Angola,2
+130,Zâmbia,Zambia,África Oriental,2005,1,6.0,6.0,10.0,48.0,80.0,3036.5953539449647,Mozambique;Angola,2
+131,República Democrática do Congo,Congo (Democratic Republic of the),África Central,1999,0,0.0,0.0,0.0,0.0,0.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+132,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2000,0,1.0,0.0,0.0,0.0,0.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+133,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2001,0,2.0,0.0,0.0,0.0,0.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+134,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2002,0,3.0,2.0,2.0,7.0,7.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+135,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2003,0,4.0,3.0,5.0,11.0,18.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+136,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2004,0,5.0,3.0,8.0,14.0,32.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+137,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2005,0,6.0,12.0,20.0,47.0,79.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+138,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2006,0,7.0,10.0,30.0,63.0,142.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+139,República Democrática do Congo,Congo (Democratic Republic of the),África Central,2007,1,8.0,27.0,57.0,116.0,258.0,1626.7319838546903,Angola;Sao Tome and Principe,2
+140,República do Congo,Congo,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+141,República do Congo,Congo,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+142,República do Congo,Congo,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+143,República do Congo,Congo,África Central,2002,0,3.0,2.0,2.0,9.0,9.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+144,República do Congo,Congo,África Central,2003,0,4.0,3.0,5.0,14.0,23.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+145,República do Congo,Congo,África Central,2004,0,5.0,3.0,8.0,18.0,41.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+146,República do Congo,Congo,África Central,2005,0,6.0,12.0,20.0,58.0,98.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+147,República do Congo,Congo,África Central,2006,0,7.0,10.0,30.0,80.0,178.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+148,República do Congo,Congo,África Central,2007,1,8.0,27.0,57.0,141.0,320.0,1620.5490368875514,Angola;Sao Tome and Principe,4
+149,Camarões,Cameroon,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+150,Camarões,Cameroon,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+151,Camarões,Cameroon,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+152,Camarões,Cameroon,África Central,2002,0,3.0,2.0,2.0,7.0,7.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+153,Camarões,Cameroon,África Central,2003,0,4.0,3.0,5.0,11.0,18.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+154,Camarões,Cameroon,África Central,2004,0,5.0,3.0,8.0,15.0,33.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+155,Camarões,Cameroon,África Central,2005,0,6.0,12.0,20.0,45.0,77.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+156,Camarões,Cameroon,África Central,2006,0,7.0,10.0,30.0,60.0,137.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+157,Camarões,Cameroon,África Central,2007,1,8.0,27.0,57.0,113.0,251.0,971.2563217720331,Equatorial Guinea;Sao Tome and Principe,3
+158,Egito,Egypt,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+159,Egito,Egypt,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+160,Egito,Egypt,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+161,Egito,Egypt,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+162,Egito,Egypt,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+163,Egito,Egypt,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+164,Egito,Egypt,África do Norte,2005,0,6.0,0.0,0.0,42.0,72.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+165,Egito,Egypt,África do Norte,2006,0,7.0,1.0,1.0,70.0,142.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+166,Egito,Egypt,África do Norte,2007,1,8.0,9.0,10.0,115.0,257.0,7952.781189484588,Equatorial Guinea;Sao Tome and Principe,2
+167,Etiópia,Ethiopia,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,6829.924825736633,Equatorial Guinea;Angola,1
+168,Etiópia,Ethiopia,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,6829.924825736633,Equatorial Guinea;Angola,1
+169,Etiópia,Ethiopia,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,6829.924825736633,Equatorial Guinea;Angola,1
+170,Etiópia,Ethiopia,África Oriental,2002,0,3.0,1.0,1.0,5.0,5.0,6829.924825736633,Equatorial Guinea;Angola,1
+171,Etiópia,Ethiopia,África Oriental,2003,0,4.0,1.0,2.0,8.0,13.0,6829.924825736633,Equatorial Guinea;Angola,1
+172,Etiópia,Ethiopia,África Oriental,2004,0,5.0,2.0,4.0,11.0,24.0,6829.924825736633,Equatorial Guinea;Angola,1
+173,Etiópia,Ethiopia,África Oriental,2005,0,6.0,6.0,10.0,35.0,59.0,6829.924825736633,Equatorial Guinea;Angola,1
+174,Etiópia,Ethiopia,África Oriental,2006,0,7.0,12.0,22.0,56.0,115.0,6829.924825736633,Equatorial Guinea;Angola,1
+175,Etiópia,Ethiopia,África Oriental,2007,0,8.0,15.0,37.0,91.0,206.0,6829.924825736633,Equatorial Guinea;Angola,1
+176,Etiópia,Ethiopia,África Oriental,2008,1,9.0,28.0,65.0,118.0,324.0,6829.924825736633,Equatorial Guinea;Angola,1
+177,Gabão,Gabon,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea,3
+178,Gabão,Gabon,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea,3
+179,Gabão,Gabon,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea,3
+180,Gabão,Gabon,África Central,2002,0,3.0,2.0,2.0,7.0,7.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea,3
+181,Gabão,Gabon,África Central,2003,0,4.0,3.0,5.0,11.0,18.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea,3
+182,Gabão,Gabon,África Central,2004,1,5.0,3.0,8.0,15.0,33.0,679.7806902261405,Sao Tome and Principe;Equatorial Guinea,3
+183,Gâmbia,Gambia,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+184,Gâmbia,Gambia,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+185,Gâmbia,Gambia,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+186,Gâmbia,Gambia,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+187,Gâmbia,Gambia,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+188,Gâmbia,Gambia,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+189,Gâmbia,Gambia,África Ocidental,2005,0,6.0,20.0,35.0,54.0,96.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+190,Gâmbia,Gambia,África Ocidental,2006,1,7.0,26.0,61.0,89.0,185.0,964.2472797161203,Guinea-Bissau;Cape Verde,3
+191,Guiné,Guinea,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+192,Guiné,Guinea,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+193,Guiné,Guinea,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+194,Guiné,Guinea,África Ocidental,2002,0,3.0,3.0,3.0,7.0,7.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+195,Guiné,Guinea,África Ocidental,2003,0,4.0,5.0,8.0,12.0,19.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+196,Guiné,Guinea,África Ocidental,2004,0,5.0,7.0,15.0,17.0,36.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+197,Guiné,Guinea,África Ocidental,2005,0,6.0,20.0,35.0,47.0,83.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+198,Guiné,Guinea,África Ocidental,2006,0,7.0,26.0,61.0,72.0,155.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+199,Guiné,Guinea,África Ocidental,2007,0,8.0,39.0,100.0,111.0,266.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+200,Guiné,Guinea,África Ocidental,2008,1,9.0,50.0,150.0,142.0,408.0,1296.1479435704946,Guinea-Bissau;Cape Verde,2
+201,Guiné Equatorial,Equatorial Guinea,África Central,1999,0,0.0,0.0,0.0,0.0,0.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+202,Guiné Equatorial,Equatorial Guinea,África Central,2000,0,1.0,0.0,0.0,0.0,0.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+203,Guiné Equatorial,Equatorial Guinea,África Central,2001,0,2.0,0.0,0.0,0.0,0.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+204,Guiné Equatorial,Equatorial Guinea,África Central,2002,0,3.0,2.0,2.0,7.0,7.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+205,Guiné Equatorial,Equatorial Guinea,África Central,2003,0,4.0,3.0,5.0,11.0,18.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+206,Guiné Equatorial,Equatorial Guinea,África Central,2004,0,5.0,3.0,8.0,15.0,33.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+207,Guiné Equatorial,Equatorial Guinea,África Central,2005,0,6.0,12.0,20.0,45.0,77.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+208,Guiné Equatorial,Equatorial Guinea,África Central,2006,0,7.0,10.0,30.0,60.0,137.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+209,Guiné Equatorial,Equatorial Guinea,África Central,2007,0,8.0,27.0,57.0,113.0,251.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+210,Guiné Equatorial,Equatorial Guinea,África Central,2008,0,9.0,26.0,83.0,130.0,381.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+211,Guiné Equatorial,Equatorial Guinea,África Central,2009,1,10.0,30.0,113.0,133.0,514.0,455.8459307556553,Equatorial Guinea;Sao Tome and Principe,3
+212,Libéria,Liberia,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+213,Libéria,Liberia,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+214,Libéria,Liberia,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+215,Libéria,Liberia,África Ocidental,2002,0,3.0,3.0,3.0,7.0,7.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+216,Libéria,Liberia,África Ocidental,2003,0,4.0,5.0,8.0,12.0,19.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+217,Libéria,Liberia,África Ocidental,2004,0,5.0,7.0,15.0,17.0,36.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+218,Libéria,Liberia,África Ocidental,2005,1,6.0,20.0,35.0,47.0,83.0,2498.7112310782313,Guinea-Bissau;Cape Verde,2
+219,Serra Leoa,Sierra Leone,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+220,Serra Leoa,Sierra Leone,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+221,Serra Leoa,Sierra Leone,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+222,Serra Leoa,Sierra Leone,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+223,Serra Leoa,Sierra Leone,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+224,Serra Leoa,Sierra Leone,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+225,Serra Leoa,Sierra Leone,África Ocidental,2005,0,6.0,20.0,35.0,54.0,96.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+226,Serra Leoa,Sierra Leone,África Ocidental,2006,0,7.0,26.0,61.0,89.0,185.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+227,Serra Leoa,Sierra Leone,África Ocidental,2007,0,8.0,39.0,100.0,137.0,322.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+228,Serra Leoa,Sierra Leone,África Ocidental,2008,0,9.0,50.0,150.0,166.0,488.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+229,Serra Leoa,Sierra Leone,África Ocidental,2009,1,10.0,50.0,200.0,157.0,645.0,1773.9204016776182,Guinea-Bissau;Cape Verde,3
+230,Malaui,Malawi,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,3648.741375512087,Mozambique;Angola,2
+231,Malaui,Malawi,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,3648.741375512087,Mozambique;Angola,2
+232,Malaui,Malawi,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,3648.741375512087,Mozambique;Angola,2
+233,Malaui,Malawi,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,3648.741375512087,Mozambique;Angola,2
+234,Malaui,Malawi,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,3648.741375512087,Mozambique;Angola,2
+235,Malaui,Malawi,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,3648.741375512087,Mozambique;Angola,2
+236,Malaui,Malawi,África Oriental,2005,0,6.0,6.0,10.0,48.0,80.0,3648.741375512087,Mozambique;Angola,2
+237,Malaui,Malawi,África Oriental,2006,0,7.0,12.0,22.0,73.0,153.0,3648.741375512087,Mozambique;Angola,2
+238,Malaui,Malawi,África Oriental,2007,0,8.0,15.0,37.0,117.0,270.0,3648.741375512087,Mozambique;Angola,2
+239,Malaui,Malawi,África Oriental,2008,0,9.0,28.0,65.0,148.0,418.0,3648.741375512087,Mozambique;Angola,2
+240,Malaui,Malawi,África Oriental,2009,1,10.0,25.0,90.0,142.0,560.0,3648.741375512087,Mozambique;Angola,2
+241,Marrocos,Morocco,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+242,Marrocos,Morocco,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+243,Marrocos,Morocco,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+244,Marrocos,Morocco,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+245,Marrocos,Morocco,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+246,Marrocos,Morocco,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+247,Marrocos,Morocco,África do Norte,2005,0,6.0,0.0,0.0,40.0,70.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+248,Marrocos,Morocco,África do Norte,2006,0,7.0,1.0,1.0,68.0,138.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+249,Marrocos,Morocco,África do Norte,2007,1,8.0,9.0,10.0,115.0,253.0,5311.987005813705,Guinea-Bissau;Cape Verde,2
+250,Mauritânia,Mauritania,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+251,Mauritânia,Mauritania,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+252,Mauritânia,Mauritania,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+253,Mauritânia,Mauritania,África Ocidental,2002,0,3.0,3.0,3.0,6.0,6.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+254,Mauritânia,Mauritania,África Ocidental,2003,0,4.0,5.0,8.0,10.0,16.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+255,Mauritânia,Mauritania,África Ocidental,2004,0,5.0,7.0,15.0,14.0,30.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+256,Mauritânia,Mauritania,África Ocidental,2005,0,6.0,20.0,35.0,40.0,70.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+257,Mauritânia,Mauritania,África Ocidental,2006,0,7.0,26.0,61.0,68.0,138.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+258,Mauritânia,Mauritania,África Ocidental,2007,0,8.0,39.0,100.0,115.0,253.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+259,Mauritânia,Mauritania,África Ocidental,2008,0,9.0,50.0,150.0,129.0,382.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+260,Mauritânia,Mauritania,África Ocidental,2009,1,10.0,50.0,200.0,128.0,510.0,1576.0812438823973,Guinea-Bissau;Cape Verde,2
+261,Nigéria,Nigeria,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+262,Nigéria,Nigeria,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+263,Nigéria,Nigeria,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+264,Nigéria,Nigeria,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+265,Nigéria,Nigeria,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+266,Nigéria,Nigeria,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+267,Nigéria,Nigeria,África Ocidental,2005,1,6.0,20.0,35.0,54.0,96.0,1621.2780494088822,Equatorial Guinea;Sao Tome and Principe,3
+268,Ruanda,Rwanda,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,4461.007288904881,Angola;Equatorial Guinea,2
+269,Ruanda,Rwanda,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,4461.007288904881,Angola;Equatorial Guinea,2
+270,Ruanda,Rwanda,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,4461.007288904881,Angola;Equatorial Guinea,2
+271,Ruanda,Rwanda,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,4461.007288904881,Angola;Equatorial Guinea,2
+272,Ruanda,Rwanda,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,4461.007288904881,Angola;Equatorial Guinea,2
+273,Ruanda,Rwanda,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,4461.007288904881,Angola;Equatorial Guinea,2
+274,Ruanda,Rwanda,África Oriental,2005,0,6.0,6.0,10.0,47.0,79.0,4461.007288904881,Angola;Equatorial Guinea,2
+275,Ruanda,Rwanda,África Oriental,2006,0,7.0,12.0,22.0,67.0,146.0,4461.007288904881,Angola;Equatorial Guinea,2
+276,Ruanda,Rwanda,África Oriental,2007,0,8.0,15.0,37.0,121.0,267.0,4461.007288904881,Angola;Equatorial Guinea,2
+277,Ruanda,Rwanda,África Oriental,2008,1,9.0,28.0,65.0,148.0,415.0,4461.007288904881,Angola;Equatorial Guinea,2
+278,Uganda,Uganda,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,5043.787648681142,Angola;Equatorial Guinea,1
+279,Uganda,Uganda,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,5043.787648681142,Angola;Equatorial Guinea,1
+280,Uganda,Uganda,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,5043.787648681142,Angola;Equatorial Guinea,1
+281,Uganda,Uganda,África Oriental,2002,0,3.0,1.0,1.0,5.0,5.0,5043.787648681142,Angola;Equatorial Guinea,1
+282,Uganda,Uganda,África Oriental,2003,0,4.0,1.0,2.0,8.0,13.0,5043.787648681142,Angola;Equatorial Guinea,1
+283,Uganda,Uganda,África Oriental,2004,0,5.0,2.0,4.0,11.0,24.0,5043.787648681142,Angola;Equatorial Guinea,1
+284,Uganda,Uganda,África Oriental,2005,0,6.0,6.0,10.0,35.0,59.0,5043.787648681142,Angola;Equatorial Guinea,1
+285,Uganda,Uganda,África Oriental,2006,0,7.0,12.0,22.0,60.0,119.0,5043.787648681142,Angola;Equatorial Guinea,1
+286,Uganda,Uganda,África Oriental,2007,0,8.0,15.0,37.0,96.0,215.0,5043.787648681142,Angola;Equatorial Guinea,1
+287,Uganda,Uganda,África Oriental,2008,1,9.0,28.0,65.0,128.0,343.0,5043.787648681142,Angola;Equatorial Guinea,1
+288,Senegal,Senegal,África Ocidental,1999,0,0.0,0.0,0.0,0.0,0.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+289,Senegal,Senegal,África Ocidental,2000,0,1.0,0.0,0.0,0.0,0.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+290,Senegal,Senegal,África Ocidental,2001,0,2.0,0.0,0.0,0.0,0.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+291,Senegal,Senegal,África Ocidental,2002,0,3.0,3.0,3.0,8.0,8.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+292,Senegal,Senegal,África Ocidental,2003,0,4.0,5.0,8.0,14.0,22.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+293,Senegal,Senegal,África Ocidental,2004,0,5.0,7.0,15.0,20.0,42.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+294,Senegal,Senegal,África Ocidental,2005,1,6.0,20.0,35.0,54.0,96.0,1015.039351055657,Guinea-Bissau;Cape Verde,3
+295,Sudão,Sudan,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+296,Sudão,Sudan,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+297,Sudão,Sudan,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+298,Sudão,Sudan,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+299,Sudão,Sudan,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+300,Sudão,Sudan,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+301,Sudão,Sudan,África do Norte,2005,0,6.0,0.0,0.0,42.0,72.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+302,Sudão,Sudan,África do Norte,2006,0,7.0,1.0,1.0,73.0,145.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+303,Sudão,Sudan,África do Norte,2007,0,8.0,9.0,10.0,117.0,262.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+304,Sudão,Sudan,África do Norte,2008,0,9.0,4.0,14.0,142.0,404.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+305,Sudão,Sudan,África do Norte,2009,0,10.0,4.0,18.0,133.0,537.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+306,Sudão,Sudan,África do Norte,2010,1,11.0,6.0,24.0,138.0,675.0,6215.209037148388,Equatorial Guinea;Sao Tome and Principe,2
+307,Tunísia,Tunisia,África do Norte,1999,0,0.0,0.0,0.0,0.0,0.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+308,Tunísia,Tunisia,África do Norte,2000,0,1.0,0.0,0.0,0.0,0.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+309,Tunísia,Tunisia,África do Norte,2001,0,2.0,0.0,0.0,0.0,0.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+310,Tunísia,Tunisia,África do Norte,2002,0,3.0,0.0,0.0,6.0,6.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+311,Tunísia,Tunisia,África do Norte,2003,0,4.0,0.0,0.0,10.0,16.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+312,Tunísia,Tunisia,África do Norte,2004,0,5.0,0.0,0.0,14.0,30.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+313,Tunísia,Tunisia,África do Norte,2005,0,6.0,0.0,0.0,40.0,70.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+314,Tunísia,Tunisia,África do Norte,2006,1,7.0,1.0,1.0,68.0,138.0,7453.1039119267425,Equatorial Guinea;Guinea-Bissau,2
+315,Zimbabue,Zimbabwe,África Oriental,1999,0,0.0,0.0,0.0,0.0,0.0,3082.2907055455003,Mozambique;Angola,2
+316,Zimbabue,Zimbabwe,África Oriental,2000,0,1.0,0.0,0.0,0.0,0.0,3082.2907055455003,Mozambique;Angola,2
+317,Zimbabue,Zimbabwe,África Oriental,2001,0,2.0,0.0,0.0,0.0,0.0,3082.2907055455003,Mozambique;Angola,2
+318,Zimbabue,Zimbabwe,África Oriental,2002,0,3.0,1.0,1.0,7.0,7.0,3082.2907055455003,Mozambique;Angola,2
+319,Zimbabue,Zimbabwe,África Oriental,2003,0,4.0,1.0,2.0,11.0,18.0,3082.2907055455003,Mozambique;Angola,2
+320,Zimbabue,Zimbabwe,África Oriental,2004,0,5.0,2.0,4.0,14.0,32.0,3082.2907055455003,Mozambique;Angola,2
+321,Zimbabue,Zimbabwe,África Oriental,2005,1,6.0,6.0,10.0,48.0,80.0,3082.2907055455003,Mozambique;Angola,2

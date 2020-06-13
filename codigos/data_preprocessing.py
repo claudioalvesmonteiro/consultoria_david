@@ -10,6 +10,7 @@ Mar 2020
 # import pacotes
 import pandas as pd
 import geopy.distance
+import numpy as np
 
 # importar dados
 proj = pd.read_csv('dados/projetos_cooperacao_brasil_africa.csv')
@@ -282,17 +283,130 @@ dataset = dataset[['pais',
                     'distancia_2palop', 
                     'paises_2palop']]
 
-# salvar base
-dataset.to_csv('resultados/DATASET.csv')
-print(dataset.head())
-print('dataset saved')
-
-
 #======================================================
-# Associacao conjunta em comercios bilateriais
-#
-# pra cada pais/ano verificar quantos projetos iniciaram no bloco de paises a que ele faz comercio bilateral, 
-# tirando os projetos que iniciaram no proprio pais
+# Qualidade das Instituicoes
 #=======================================================
 
-# fazer bloco-ano-projs, pais-ano-projs : substrair o n de projs do proprio pais ao selecionar informacao 
+# importar base
+quali = pd.read_csv('dados/QOG_new.txt', sep=';')
+
+'''
+# pais em portugues sem acento
+import unidecode
+dataset['pais'] =  list(map(lambda x: unidecode.unidecode(x),  dataset['pais']))
+
+# combinar com dataset
+dataset = pd.merge(dataset, quali[['pais', 'anos','icrg_qog' ]], on=['pais','anos'])
+
+# remover duplicados
+dataset = dataset.drop_duplicates(subset=['pais', 'anos'])
+'''
+#======================================================
+# SEMELHANCA NA QUALIDADE DAS INSTITUICOES
+# nao palop - palop
+#=======================================================
+
+def categorizeQuali(value, mi, mx, spliter):
+    import numpy as np
+    if value >= mi and value < mi+spliter:
+        return 1
+    elif value >= mi+spliter and value < mi+2*spliter:
+        return 2
+    elif value >= mi+2*spliter and value < mi+3*spliter:
+        return 3
+    elif value >= mi+3*spliter and value <= mi+4*spliter:
+        return 4
+    else:
+        return np.nan
+
+def spliterr(column):
+    mi = min(column)
+    mx = max(column)
+    spliter = (mx - mi) / 4
+    return mi, mx, spliter
+
+# icrg
+quali['icrg_grupo'] = list(map(lambda x: categorizeQuali(x, spliterr(quali['icrg_qog'])[0],  spliterr(quali['icrg_qog'])[1], 
+                                                            spliterr(quali['icrg_qog'])[2]), quali['icrg_qog']))
+# govint
+quali['govint_grupo'] = list(map(lambda x: categorizeQuali(x, spliterr(quali['hf_govint'])[0], spliterr(quali['hf_govint'])[1], 
+                                                            spliterr(quali['hf_govint'])[2]), quali['hf_govint']))
+
+## PALOP
+quali_palop =  quali[quali['cname'].isin(['Mozambique',  'Angola',   'Cape Verde', 'Equatorial Guinea', 'Guinea-Bissau', 'Sao Tome and Principe'])]
+
+# media por ano
+quali_palop = quali_palop[['year', 'icrg_qog', 'hf_govint' ]].groupby('year').mean()
+
+## agrupar 
+
+# icrg
+quali_palop['icrg_grupo_PALOP'] = list(map(lambda x: categorizeQuali(x, spliterr(quali['icrg_qog'])[0],  spliterr(quali['icrg_qog'])[1], 
+                                                            spliterr(quali['icrg_qog'])[2]), quali_palop['icrg_qog']))
+# govint
+quali_palop['govint_grupo_PALOP'] = list(map(lambda x: categorizeQuali(x, spliterr(quali['hf_govint'])[0], spliterr(quali['hf_govint'])[1], 
+                                                            spliterr(quali['hf_govint'])[2]), quali_palop['hf_govint']))
+
+# mergir com qog total
+quali_palop.reset_index(inplace=True)
+quali = pd.merge(quali, quali_palop[['year', 'icrg_grupo_PALOP', 'govint_grupo_PALOP']], on ='year')
+
+# criar variavel SEMELHANCA DE QUALIDADE
+quali['semelhanca_quali_institucional_icrg'] = [1 if quali['icrg_grupo'][x] ==  quali['icrg_grupo_PALOP'][x] else 0 for x in range(len(quali))]
+quali['semelhanca_quali_institucional_govint'] = [1 if quali['govint_grupo'][x] ==  quali['govint_grupo_PALOP'][x] else 0 for x in range(len(quali))]
+
+# transformar year em numerico
+quali['year'] = list(map(lambda x: int(x), quali['year']))
+
+# combinar com base dataset
+dataset = pd.merge(dataset, quali[['cname', 'year','semelhanca_quali_institucional_icrg', 'semelhanca_quali_institucional_govint']], 
+                   left_on=['country', 'anos'],
+                   right_on=['cname', 'year'] )
+
+dataset = dataset.drop_duplicates(['pais', 'anos'])
+
+#=========================================================
+# Associacao conjunta em instituicoes internacionais 
+# 
+# palop nao-palop: n de instituicoes compartilhadas com palop
+#=========================================================
+
+inst_palop = inst[inst['country'].isin(['Angola','Cape Verde', 'Equatorial Guinea', 
+                                        'Guinea-Bissau', 'Mozambique', 'Sao Tome and Principe'])]
+
+# indentificar instituicoes onde paises palop fazem parte
+for i in inst_palop.columns[2:]:
+    print(i+': '+ str(sum(inst_palop[i])))
+
+# VAR numero de instituicoes que o pais compartilha com outros paises palop
+inst['instituicoes_com_palop'] = inst['African Union'] + inst['Community of Sahel-Saharan States'] + inst['Economic Community of Central African States'] + inst['Economic and Monetary Community of Central Africa'] +  inst['Economic Community of West African States'] + inst['Southern African Development Community']
+
+# combinar com base
+dataset = pd.merge(dataset, inst[['instituicoes_com_palop', 'country']], on='country')
+
+# remover casos 
+dataset = dataset[~dataset['country'].isin(['Angola','Cape Verde', 'Equatorial Guinea', 
+                                        'Guinea-Bissau', 'Mozambique', 'Sao Tome and Principe'])]
+
+# selecionar variaveis
+dataset = dataset[['pais', 
+                    'country', 
+                    'regiao', 
+                    'anos', 
+                    'inicio_projeto', 
+                    'anos_contagem',
+                    'regiao_proj_noano', 
+                    'regiao_proj_acumulados',
+                    'instituicoes_internacionais_proj_noano',
+                    'instituicoes_internacionais_proj_acumulados', 
+                    'distancia_2palop',
+                    'paises_2palop', 
+                    'semelhanca_quali_institucional_icrg',
+                    'semelhanca_quali_institucional_govint', 
+                    'instituicoes_com_palop']]
+
+
+# salvar base
+dataset.to_csv('resultados/DATASET_V2.csv')
+print(dataset.head())
+print('dataset saved')
