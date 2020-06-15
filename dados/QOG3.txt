@@ -1,0 +1,327 @@
+"X","pais","cname","anos","inicio_projeto","anos_contagem","regiao","regiao_proj_noano","regiao_proj_acumulados","icrg_qog"
+0,"Africa do Sul","South Africa",1999,0,0,"Africa do Sul",0,0,0.45833334
+1,"Africa do Sul","South Africa",2000,0,1,"Africa do Sul",0,0,0.44444445
+2,"Africa do Sul","South Africa",2001,0,2,"Africa do Sul",0,0,0.44212964
+3,"Africa do Sul","South Africa",2002,0,3,"Africa do Sul",0,0,0.4050926
+4,"Africa do Sul","South Africa",2003,0,4,"Africa do Sul",0,0,0.37962964
+5,"Africa do Sul","South Africa",2004,0,5,"Africa do Sul",0,0,0.41666666
+6,"Africa do Sul","South Africa",2005,0,6,"Africa do Sul",1,1,0.42592591
+7,"Africa do Sul","South Africa",2006,0,7,"Africa do Sul",5,6,0.44444445
+8,"Africa do Sul","South Africa",2007,0,8,"Africa do Sul",2,8,0.44444445
+9,"Africa do Sul","South Africa",2008,0,9,"Africa do Sul",2,10,0.44444445
+10,"Africa do Sul","South Africa",2009,1,10,"Africa do Sul",1,11,0.44444445
+11,"Namibia","Namibia",1999,0,0,"Africa do Sul",0,0,0.66666669
+12,"Namibia","Namibia",2000,0,1,"Africa do Sul",0,0,0.66666669
+13,"Namibia","Namibia",2001,0,2,"Africa do Sul",0,0,0.64814818
+14,"Namibia","Namibia",2002,0,3,"Africa do Sul",0,0,0.58796299
+15,"Namibia","Namibia",2003,0,4,"Africa do Sul",0,0,0.58333331
+16,"Namibia","Namibia",2004,0,5,"Africa do Sul",0,0,0.56018519
+17,"Namibia","Namibia",2005,1,6,"Africa do Sul",1,1,0.52777779
+18,"Mocambique","Mozambique",1999,0,0,"Africa Oriental",0,0,0.3888889
+19,"Mocambique","Mozambique",2000,0,1,"Africa Oriental",0,0,0.28703704
+20,"Mocambique","Mozambique",2001,0,2,"Africa Oriental",0,0,0.27777779
+21,"Mocambique","Mozambique",2002,1,3,"Africa Oriental",0,0,0.31481481
+22,"Angola","Angola",1999,0,0,"Africa Central",0,0,0.3611111
+23,"Angola","Angola",2000,0,1,"Africa Central",0,0,0.3611111
+24,"Angola","Angola",2001,0,2,"Africa Central",0,0,0.3611111
+25,"Angola","Angola",2002,1,3,"Africa Central",0,0,0.3611111
+26,"Cabo Verde","Cape Verde",1999,0,0,"Africa Ocidental",0,0,NA
+27,"Cabo Verde","Cape Verde",2000,0,1,"Africa Ocidental",0,0,NA
+28,"Cabo Verde","Cape Verde",2001,0,2,"Africa Ocidental",0,0,NA
+29,"Cabo Verde","Cape Verde",2002,1,3,"Africa Ocidental",0,0,NA
+30,"Guine-Bissau","Guinea-Bissau ",1999,0,0,"Africa Ocidental",0,0,NA
+31,"Guine-Bissau","Guinea-Bissau ",2000,0,1,"Africa Ocidental",0,0,NA
+32,"Guine-Bissau","Guinea-Bissau ",2001,0,2,"Africa Ocidental",0,0,NA
+33,"Guine-Bissau","Guinea-Bissau ",2002,1,3,"Africa Ocidental",0,0,NA
+34,"Sao Tome e Principe","Sao Tome and Principe",1999,0,0,"Africa Central",0,0,NA
+35,"Sao Tome e Principe","Sao Tome and Principe",1999,0,0,"Africa Ocidental",0,0,NA
+36,"Sao Tome e Principe","Sao Tome and Principe",2000,0,1,"Africa Central",0,0,NA
+37,"Sao Tome e Principe","Sao Tome and Principe",2000,0,1,"Africa Ocidental",0,0,NA
+38,"Sao Tome e Principe","Sao Tome and Principe",2001,0,2,"Africa Central",0,0,NA
+39,"Sao Tome e Principe","Sao Tome and Principe",2001,0,2,"Africa Ocidental",0,0,NA
+40,"Sao Tome e Principe","Sao Tome and Principe",2002,1,3,"Africa Central",0,0,NA
+41,"Sao Tome e Principe","Sao Tome and Principe",2002,1,3,"Africa Ocidental",0,0,NA
+42,"Argelia","Algeria",1999,0,0,"Africa do Norte",0,0,0.3888889
+43,"Argelia","Algeria",2000,0,1,"Africa do Norte",0,0,0.3888889
+44,"Argelia","Algeria",2001,0,2,"Africa do Norte",0,0,0.38657409
+45,"Argelia","Algeria",2002,0,3,"Africa do Norte",0,0,0.3611111
+46,"Argelia","Algeria",2003,0,4,"Africa do Norte",0,0,0.3611111
+47,"Argelia","Algeria",2004,0,5,"Africa do Norte",0,0,0.38425925
+48,"Argelia","Algeria",2005,0,6,"Africa do Norte",0,0,0.41666666
+49,"Argelia","Algeria",2006,0,7,"Africa do Norte",1,1,0.41666666
+50,"Argelia","Algeria",2007,1,8,"Africa do Norte",9,10,0.41666666
+51,"Benin","Benin",1999,0,0,"Africa Ocidental",0,0,NA
+52,"Benin","Benin",2000,0,1,"Africa Ocidental",0,0,NA
+53,"Benin","Benin",2001,0,2,"Africa Ocidental",0,0,NA
+54,"Benin","Benin",2002,0,3,"Africa Ocidental",0,0,NA
+55,"Benin","Benin",2003,0,4,"Africa Ocidental",2,2,NA
+56,"Benin","Benin",2004,0,5,"Africa Ocidental",4,6,NA
+57,"Benin","Benin",2005,0,6,"Africa Ocidental",13,19,NA
+58,"Benin","Benin",2006,1,7,"Africa Ocidental",20,39,NA
+59,"Burkina-Faso","Burkina Faso",1999,0,0,"Africa Ocidental",0,0,0.41666669
+60,"Burkina-Faso","Burkina Faso",2000,0,1,"Africa Ocidental",0,0,0.41666669
+61,"Burkina-Faso","Burkina Faso",2001,0,2,"Africa Ocidental",0,0,0.41666669
+62,"Burkina-Faso","Burkina Faso",2002,0,3,"Africa Ocidental",0,0,0.39351851
+63,"Burkina-Faso","Burkina Faso",2003,0,4,"Africa Ocidental",2,2,0.3888889
+64,"Burkina-Faso","Burkina Faso",2004,0,5,"Africa Ocidental",4,6,0.3888889
+65,"Burkina-Faso","Burkina Faso",2005,0,6,"Africa Ocidental",13,19,0.3888889
+66,"Burkina-Faso","Burkina Faso",2006,1,7,"Africa Ocidental",20,39,0.3888889
+67,"Chade","Chad",1999,0,0,"Africa Central",0,0,NA
+68,"Chade","Chad",2000,0,1,"Africa Central",0,0,NA
+69,"Chade","Chad",2001,0,2,"Africa Central",0,0,NA
+70,"Chade","Chad",2002,0,3,"Africa Central",0,0,NA
+71,"Chade","Chad",2003,0,4,"Africa Central",1,1,NA
+72,"Chade","Chad",2004,0,5,"Africa Central",1,2,NA
+73,"Chade","Chad",2005,0,6,"Africa Central",8,10,NA
+74,"Chade","Chad",2006,0,7,"Africa Central",6,16,NA
+75,"Chade","Chad",2007,1,8,"Africa Central",22,38,NA
+76,"Mali","Mali",1999,0,0,"Africa Ocidental",0,0,0.27777779
+77,"Mali","Mali",2000,0,1,"Africa Ocidental",0,0,0.27777779
+78,"Mali","Mali",2001,0,2,"Africa Ocidental",0,0,0.27777779
+79,"Mali","Mali",2002,0,3,"Africa Ocidental",0,0,0.2962963
+80,"Mali","Mali",2003,0,4,"Africa Ocidental",2,2,0.33333334
+81,"Mali","Mali",2004,0,5,"Africa Ocidental",4,6,0.29166666
+82,"Mali","Mali",2005,1,6,"Africa Ocidental",13,19,0.27777779
+83,"Togo","Togo",1999,0,0,"Africa Ocidental",0,0,0.27777779
+84,"Togo","Togo",2000,0,1,"Africa Ocidental",0,0,0.27777779
+85,"Togo","Togo",2001,0,2,"Africa Ocidental",0,0,0.27777779
+86,"Togo","Togo",2002,0,3,"Africa Ocidental",0,0,0.27314815
+87,"Togo","Togo",2003,0,4,"Africa Ocidental",2,2,0.25
+88,"Togo","Togo",2004,0,5,"Africa Ocidental",4,6,0.25
+89,"Togo","Togo",2005,0,6,"Africa Ocidental",13,19,0.25
+90,"Togo","Togo",2006,0,7,"Africa Ocidental",20,39,0.25
+91,"Togo","Togo",2007,0,8,"Africa Ocidental",34,73,0.25
+92,"Togo","Togo",2008,0,9,"Africa Ocidental",35,108,0.25
+93,"Togo","Togo",2009,1,10,"Africa Ocidental",36,144,0.25
+94,"Botsuana","Botswana",1999,0,0,"Africa do Sul",0,0,0.55555558
+95,"Botsuana","Botswana",2000,0,1,"Africa do Sul",0,0,0.55555558
+96,"Botsuana","Botswana",2001,0,2,"Africa do Sul",0,0,0.5462963
+97,"Botsuana","Botswana",2002,0,3,"Africa do Sul",0,0,0.52777779
+98,"Botsuana","Botswana",2003,0,4,"Africa do Sul",0,0,0.52777779
+99,"Botsuana","Botswana",2004,0,5,"Africa do Sul",0,0,0.53472221
+100,"Botsuana","Botswana",2005,0,6,"Africa do Sul",1,1,0.55555558
+101,"Botsuana","Botswana",2006,0,7,"Africa do Sul",5,6,0.56481481
+102,"Botsuana","Botswana",2007,1,8,"Africa do Sul",2,8,0.60416669
+103,"Gana","Ghana",1999,0,0,"Africa Ocidental",0,0,0.43055555
+104,"Gana","Ghana",2000,0,1,"Africa Ocidental",0,0,0.3888889
+105,"Gana","Ghana",2001,0,2,"Africa Ocidental",0,0,0.43981481
+106,"Gana","Ghana",2002,0,3,"Africa Ocidental",0,0,0.41666666
+107,"Gana","Ghana",2003,0,4,"Africa Ocidental",2,2,0.41666666
+108,"Gana","Ghana",2004,1,5,"Africa Ocidental",4,6,0.41666666
+109,"Quenia","Kenya",1999,0,0,"Africa Oriental",0,0,0.3888889
+110,"Quenia","Kenya",2000,0,1,"Africa Oriental",0,0,0.3888889
+111,"Quenia","Kenya",2001,0,2,"Africa Oriental",0,0,0.3888889
+112,"Quenia","Kenya",2002,0,3,"Africa Oriental",0,0,0.375
+113,"Quenia","Kenya",2003,0,4,"Africa Oriental",0,0,0.4675926
+114,"Quenia","Kenya",2004,0,5,"Africa Oriental",1,1,0.41666666
+115,"Quenia","Kenya",2005,0,6,"Africa Oriental",4,5,0.34953704
+116,"Quenia","Kenya",2006,1,7,"Africa Oriental",10,15,0.33333334
+117,"Tanzania","Tanzania",1999,0,0,"Africa Oriental",0,0,0.47222221
+118,"Tanzania","Tanzania",2000,0,1,"Africa Oriental",0,0,0.47222221
+119,"Tanzania","Tanzania",2001,0,2,"Africa Oriental",0,0,0.47222221
+120,"Tanzania","Tanzania",2002,0,3,"Africa Oriental",0,0,0.47222221
+121,"Tanzania","Tanzania",2003,0,4,"Africa Oriental",0,0,0.47222221
+122,"Tanzania","Tanzania",2004,0,5,"Africa Oriental",1,1,0.47222221
+123,"Tanzania","Tanzania",2005,0,6,"Africa Oriental",4,5,0.47222221
+124,"Tanzania","Tanzania",2006,0,7,"Africa Oriental",10,15,0.48842591
+125,"Tanzania","Tanzania",2007,0,8,"Africa Oriental",14,29,0.5462963
+126,"Tanzania","Tanzania",2008,0,9,"Africa Oriental",21,50,0.53703701
+127,"Tanzania","Tanzania",2009,1,10,"Africa Oriental",21,71,0.52777779
+128,"Zambia","Zambia",1999,0,0,"Africa Oriental",0,0,0.47222224
+129,"Zambia","Zambia",2000,0,1,"Africa Oriental",0,0,0.4537037
+130,"Zambia","Zambia",2001,0,2,"Africa Oriental",0,0,0.41666669
+131,"Zambia","Zambia",2002,0,3,"Africa Oriental",0,0,0.41666669
+132,"Zambia","Zambia",2003,0,4,"Africa Oriental",0,0,0.41666669
+133,"Zambia","Zambia",2004,0,5,"Africa Oriental",1,1,0.43981484
+134,"Zambia","Zambia",2005,1,6,"Africa Oriental",4,5,0.47222224
+135,"Republica Democratica do Congo","Congo, Democratic Republic",1999,0,0,"Africa Central",0,0,NA
+136,"Republica Democratica do Congo","Congo, Democratic Republic",2000,0,1,"Africa Central",0,0,NA
+137,"Republica Democratica do Congo","Congo, Democratic Republic",2001,0,2,"Africa Central",0,0,NA
+138,"Republica Democratica do Congo","Congo, Democratic Republic",2002,0,3,"Africa Central",0,0,NA
+139,"Republica Democratica do Congo","Congo, Democratic Republic",2003,0,4,"Africa Central",1,1,NA
+140,"Republica Democratica do Congo","Congo, Democratic Republic",2004,0,5,"Africa Central",1,2,NA
+141,"Republica Democratica do Congo","Congo, Democratic Republic",2005,0,6,"Africa Central",8,10,NA
+142,"Republica Democratica do Congo","Congo, Democratic Republic",2006,0,7,"Africa Central",6,16,NA
+143,"Republica Democratica do Congo","Congo, Democratic Republic",2007,1,8,"Africa Central",22,38,NA
+144,"Republica do Congo","Congo",1999,0,0,"Africa Central",0,0,0.3611111
+145,"Republica do Congo","Congo",2000,0,1,"Africa Central",0,0,0.40277779
+146,"Republica do Congo","Congo",2001,0,2,"Africa Central",0,0,0.41666669
+147,"Republica do Congo","Congo",2002,0,3,"Africa Central",0,0,0.3611111
+148,"Republica do Congo","Congo",2003,0,4,"Africa Central",1,1,0.30555555
+149,"Republica do Congo","Congo",2004,0,5,"Africa Central",1,2,0.30555555
+150,"Republica do Congo","Congo",2005,0,6,"Africa Central",8,10,0.30555555
+151,"Republica do Congo","Congo",2006,0,7,"Africa Central",6,16,0.30555555
+152,"Republica do Congo","Congo",2007,1,8,"Africa Central",22,38,0.30555555
+153,"Camaroes","Cameroon",1999,0,0,"Africa Central",0,0,0.3611111
+154,"Camaroes","Cameroon",2000,0,1,"Africa Central",0,0,0.31944445
+155,"Camaroes","Cameroon",2001,0,2,"Africa Central",0,0,0.30555555
+156,"Camaroes","Cameroon",2002,0,3,"Africa Central",0,0,0.30555555
+157,"Camaroes","Cameroon",2003,0,4,"Africa Central",1,1,0.30555555
+158,"Camaroes","Cameroon",2004,0,5,"Africa Central",1,2,0.30555555
+159,"Camaroes","Cameroon",2005,0,6,"Africa Central",8,10,0.30555555
+160,"Camaroes","Cameroon",2006,0,7,"Africa Central",6,16,0.35185185
+161,"Camaroes","Cameroon",2007,1,8,"Africa Central",22,38,0.38194445
+162,"Egito","Egypt",1999,0,0,"Africa do Norte",0,0,0.5
+163,"Egito","Egypt",2000,0,1,"Africa do Norte",0,0,0.5
+164,"Egito","Egypt",2001,0,2,"Africa do Norte",0,0,0.49768519
+165,"Egito","Egypt",2002,0,3,"Africa do Norte",0,0,0.47222224
+166,"Egito","Egypt",2003,0,4,"Africa do Norte",0,0,0.47222224
+167,"Egito","Egypt",2004,0,5,"Africa do Norte",0,0,0.47222224
+168,"Egito","Egypt",2005,0,6,"Africa do Norte",0,0,0.47222224
+169,"Egito","Egypt",2006,0,7,"Africa do Norte",1,1,0.4861111
+170,"Egito","Egypt",2007,1,8,"Africa do Norte",9,10,0.49768519
+171,"Etiopia","Ethiopia",1999,0,0,"Africa Oriental",0,0,NA
+172,"Etiopia","Ethiopia",2000,0,1,"Africa Oriental",0,0,NA
+173,"Etiopia","Ethiopia",2001,0,2,"Africa Oriental",0,0,NA
+174,"Etiopia","Ethiopia",2002,0,3,"Africa Oriental",0,0,NA
+175,"Etiopia","Ethiopia",2003,0,4,"Africa Oriental",0,0,NA
+176,"Etiopia","Ethiopia",2004,0,5,"Africa Oriental",1,1,NA
+177,"Etiopia","Ethiopia",2005,0,6,"Africa Oriental",4,5,NA
+178,"Etiopia","Ethiopia",2006,0,7,"Africa Oriental",10,15,NA
+179,"Etiopia","Ethiopia",2007,0,8,"Africa Oriental",14,29,NA
+180,"Etiopia","Ethiopia",2008,1,9,"Africa Oriental",21,50,NA
+181,"Gabao","Gabon",1999,0,0,"Africa Central",0,0,0.3888889
+182,"Gabao","Gabon",2000,0,1,"Africa Central",0,0,0.3888889
+183,"Gabao","Gabon",2001,0,2,"Africa Central",0,0,0.3888889
+184,"Gabao","Gabon",2002,0,3,"Africa Central",0,0,0.3888889
+185,"Gabao","Gabon",2003,0,4,"Africa Central",1,1,0.3888889
+186,"Gabao","Gabon",2004,1,5,"Africa Central",1,2,0.33333334
+187,"Gambia","Gambia",1999,0,0,"Africa Ocidental",0,0,0.6111111
+188,"Gambia","Gambia",2000,0,1,"Africa Ocidental",0,0,0.6111111
+189,"Gambia","Gambia",2001,0,2,"Africa Ocidental",0,0,0.6111111
+190,"Gambia","Gambia",2002,0,3,"Africa Ocidental",0,0,0.58796299
+191,"Gambia","Gambia",2003,0,4,"Africa Ocidental",2,2,0.55555558
+192,"Gambia","Gambia",2004,0,5,"Africa Ocidental",4,6,0.5486111
+193,"Gambia","Gambia",2005,0,6,"Africa Ocidental",13,19,0.52777779
+194,"Gambia","Gambia",2006,1,7,"Africa Ocidental",20,39,0.5162037
+195,"Guine","Guinea",1999,0,0,"Africa Ocidental",0,0,0.5
+196,"Guine","Guinea",2000,0,1,"Africa Ocidental",0,0,0.5
+197,"Guine","Guinea",2001,0,2,"Africa Ocidental",0,0,0.5
+198,"Guine","Guinea",2002,0,3,"Africa Ocidental",0,0,0.47453704
+199,"Guine","Guinea",2003,0,4,"Africa Ocidental",2,2,0.47222221
+200,"Guine","Guinea",2004,0,5,"Africa Ocidental",4,6,0.44675925
+201,"Guine","Guinea",2005,0,6,"Africa Ocidental",13,19,0.44444445
+202,"Guine","Guinea",2006,0,7,"Africa Ocidental",20,39,0.44444445
+203,"Guine","Guinea",2007,0,8,"Africa Ocidental",34,73,0.41666666
+204,"Guine","Guinea",2008,1,9,"Africa Ocidental",35,108,0.41666666
+205,"Guine Equatorial","Equatorial Guinea",1999,0,0,"Africa Central",0,0,NA
+206,"Guine Equatorial","Equatorial Guinea",2000,0,1,"Africa Central",0,0,NA
+207,"Guine Equatorial","Equatorial Guinea",2001,0,2,"Africa Central",0,0,NA
+208,"Guine Equatorial","Equatorial Guinea",2002,0,3,"Africa Central",0,0,NA
+209,"Guine Equatorial","Equatorial Guinea",2003,0,4,"Africa Central",1,1,NA
+210,"Guine Equatorial","Equatorial Guinea",2004,0,5,"Africa Central",1,2,NA
+211,"Guine Equatorial","Equatorial Guinea",2005,0,6,"Africa Central",8,10,NA
+212,"Guine Equatorial","Equatorial Guinea",2006,0,7,"Africa Central",6,16,NA
+213,"Guine Equatorial","Equatorial Guinea",2007,0,8,"Africa Central",22,38,NA
+214,"Guine Equatorial","Equatorial Guinea",2008,0,9,"Africa Central",18,56,NA
+215,"Guine Equatorial","Equatorial Guinea",2009,1,10,"Africa Central",22,78,NA
+216,"Liberia","Liberia",1999,0,0,"Africa Ocidental",0,0,0.1712963
+217,"Liberia","Liberia",2000,0,1,"Africa Ocidental",0,0,0.25
+218,"Liberia","Liberia",2001,0,2,"Africa Ocidental",0,0,0.29166669
+219,"Liberia","Liberia",2002,0,3,"Africa Ocidental",0,0,0.22222222
+220,"Liberia","Liberia",2003,0,4,"Africa Ocidental",2,2,0.2175926
+221,"Liberia","Liberia",2004,0,5,"Africa Ocidental",4,6,0.23148148
+222,"Liberia","Liberia",2005,1,6,"Africa Ocidental",13,19,0.22222222
+223,"Serra Leoa","Sierra Leone",1999,0,0,"Africa Ocidental",0,0,NA
+224,"Serra Leoa","Sierra Leone",2000,0,1,"Africa Ocidental",0,0,NA
+225,"Serra Leoa","Sierra Leone",2001,0,2,"Africa Ocidental",0,0,NA
+226,"Serra Leoa","Sierra Leone",2002,0,3,"Africa Ocidental",0,0,NA
+227,"Serra Leoa","Sierra Leone",2003,0,4,"Africa Ocidental",2,2,NA
+228,"Serra Leoa","Sierra Leone",2004,0,5,"Africa Ocidental",4,6,NA
+229,"Serra Leoa","Sierra Leone",2005,0,6,"Africa Ocidental",13,19,NA
+230,"Serra Leoa","Sierra Leone",2006,0,7,"Africa Ocidental",20,39,NA
+231,"Serra Leoa","Sierra Leone",2007,0,8,"Africa Ocidental",34,73,NA
+232,"Serra Leoa","Sierra Leone",2008,0,9,"Africa Ocidental",35,108,NA
+233,"Serra Leoa","Sierra Leone",2009,1,10,"Africa Ocidental",36,144,NA
+234,"Malaui","Malawi",1999,0,0,"Africa Oriental",0,0,0.55555558
+235,"Malaui","Malawi",2000,0,1,"Africa Oriental",0,0,0.55555558
+236,"Malaui","Malawi",2001,0,2,"Africa Oriental",0,0,0.5486111
+237,"Malaui","Malawi",2002,0,3,"Africa Oriental",0,0,0.44675925
+238,"Malaui","Malawi",2003,0,4,"Africa Oriental",0,0,0.44444445
+239,"Malaui","Malawi",2004,0,5,"Africa Oriental",1,1,0.44444445
+240,"Malaui","Malawi",2005,0,6,"Africa Oriental",4,5,0.44444445
+241,"Malaui","Malawi",2006,0,7,"Africa Oriental",10,15,0.44444445
+242,"Malaui","Malawi",2007,0,8,"Africa Oriental",14,29,0.4375
+243,"Malaui","Malawi",2008,0,9,"Africa Oriental",21,50,0.42708334
+244,"Malaui","Malawi",2009,1,10,"Africa Oriental",21,71,0.45833334
+245,"Marrocos","Morocco",1999,0,0,"Africa do Norte",0,0,0.66666669
+246,"Marrocos","Morocco",2000,0,1,"Africa do Norte",0,0,0.66666669
+247,"Marrocos","Morocco",2001,0,2,"Africa do Norte",0,0,0.66666669
+248,"Marrocos","Morocco",2002,0,3,"Africa do Norte",0,0,0.66666669
+249,"Marrocos","Morocco",2003,0,4,"Africa do Norte",0,0,0.62037039
+250,"Marrocos","Morocco",2004,0,5,"Africa do Norte",0,0,0.6111111
+251,"Marrocos","Morocco",2005,0,6,"Africa do Norte",0,0,0.58333331
+252,"Marrocos","Morocco",2006,0,7,"Africa do Norte",1,1,0.60648149
+253,"Marrocos","Morocco",2007,1,8,"Africa do Norte",9,10,0.6111111
+254,"Mauritania","Mauritania",1999,0,0,"Africa Ocidental",0,0,NA
+255,"Mauritania","Mauritania",2000,0,1,"Africa Ocidental",0,0,NA
+256,"Mauritania","Mauritania",2001,0,2,"Africa Ocidental",0,0,NA
+257,"Mauritania","Mauritania",2002,0,3,"Africa Ocidental",0,0,NA
+258,"Mauritania","Mauritania",2003,0,4,"Africa Ocidental",2,2,NA
+259,"Mauritania","Mauritania",2004,0,5,"Africa Ocidental",4,6,NA
+260,"Mauritania","Mauritania",2005,0,6,"Africa Ocidental",13,19,NA
+261,"Mauritania","Mauritania",2006,0,7,"Africa Ocidental",20,39,NA
+262,"Mauritania","Mauritania",2007,0,8,"Africa Ocidental",34,73,NA
+263,"Mauritania","Mauritania",2008,0,9,"Africa Ocidental",35,108,NA
+264,"Mauritania","Mauritania",2009,1,10,"Africa Ocidental",36,144,NA
+265,"Nigeria","Niger",1999,0,0,"Africa Ocidental",0,0,0.19444445
+266,"Nigeria","Niger",2000,0,1,"Africa Ocidental",0,0,0.25
+267,"Nigeria","Niger",2001,0,2,"Africa Ocidental",0,0,0.25
+268,"Nigeria","Niger",2002,0,3,"Africa Ocidental",0,0,0.25
+269,"Nigeria","Niger",2003,0,4,"Africa Ocidental",2,2,0.25
+270,"Nigeria","Niger",2004,0,5,"Africa Ocidental",4,6,0.25
+271,"Nigeria","Niger",2005,1,6,"Africa Ocidental",13,19,0.25
+272,"Ruanda","Rwanda",1999,0,0,"Africa Oriental",0,0,NA
+273,"Ruanda","Rwanda",2000,0,1,"Africa Oriental",0,0,NA
+274,"Ruanda","Rwanda",2001,0,2,"Africa Oriental",0,0,NA
+275,"Ruanda","Rwanda",2002,0,3,"Africa Oriental",0,0,NA
+276,"Ruanda","Rwanda",2003,0,4,"Africa Oriental",0,0,NA
+277,"Ruanda","Rwanda",2004,0,5,"Africa Oriental",1,1,NA
+278,"Ruanda","Rwanda",2005,0,6,"Africa Oriental",4,5,NA
+279,"Ruanda","Rwanda",2006,0,7,"Africa Oriental",10,15,NA
+280,"Ruanda","Rwanda",2007,0,8,"Africa Oriental",14,29,NA
+281,"Ruanda","Rwanda",2008,1,9,"Africa Oriental",21,50,NA
+282,"Uganda","Uganda",1999,0,0,"Africa Oriental",0,0,0.5
+283,"Uganda","Uganda",2000,0,1,"Africa Oriental",0,0,0.5
+284,"Uganda","Uganda",2001,0,2,"Africa Oriental",0,0,0.5
+285,"Uganda","Uganda",2002,0,3,"Africa Oriental",0,0,0.5
+286,"Uganda","Uganda",2003,0,4,"Africa Oriental",0,0,0.5
+287,"Uganda","Uganda",2004,0,5,"Africa Oriental",1,1,0.5
+288,"Uganda","Uganda",2005,0,6,"Africa Oriental",4,5,0.5
+289,"Uganda","Uganda",2006,0,7,"Africa Oriental",10,15,0.5
+290,"Uganda","Uganda",2007,0,8,"Africa Oriental",14,29,0.4861111
+291,"Uganda","Uganda",2008,1,9,"Africa Oriental",21,50,0.47222221
+292,"Senegal","Senegal",1999,0,0,"Africa Ocidental",0,0,0.41666666
+293,"Senegal","Senegal",2000,0,1,"Africa Ocidental",0,0,0.41666666
+294,"Senegal","Senegal",2001,0,2,"Africa Ocidental",0,0,0.41666666
+295,"Senegal","Senegal",2002,0,3,"Africa Ocidental",0,0,0.3888889
+296,"Senegal","Senegal",2003,0,4,"Africa Ocidental",2,2,0.3888889
+297,"Senegal","Senegal",2004,0,5,"Africa Ocidental",4,6,0.3888889
+298,"Senegal","Senegal",2005,1,6,"Africa Ocidental",13,19,0.3888889
+299,"Sudao","Sudan",1999,0,0,"Africa do Norte",0,0,NA
+300,"Sudao","Sudan",2000,0,1,"Africa do Norte",0,0,NA
+301,"Sudao","Sudan",2001,0,2,"Africa do Norte",0,0,NA
+302,"Sudao","Sudan",2002,0,3,"Africa do Norte",0,0,NA
+303,"Sudao","Sudan",2003,0,4,"Africa do Norte",0,0,NA
+304,"Sudao","Sudan",2004,0,5,"Africa do Norte",0,0,NA
+305,"Sudao","Sudan",2005,0,6,"Africa do Norte",0,0,NA
+306,"Sudao","Sudan",2006,0,7,"Africa do Norte",1,1,NA
+307,"Sudao","Sudan",2007,0,8,"Africa do Norte",9,10,NA
+308,"Sudao","Sudan",2008,0,9,"Africa do Norte",4,14,NA
+309,"Sudao","Sudan",2009,0,10,"Africa do Norte",4,18,NA
+310,"Sudao","Sudan",2010,1,11,"Africa do Norte",6,24,NA
+311,"Tunisia","Tunisia",1999,0,0,"Africa do Norte",0,0,0.6111111
+312,"Tunisia","Tunisia",2000,0,1,"Africa do Norte",0,0,0.6111111
+313,"Tunisia","Tunisia",2001,0,2,"Africa do Norte",0,0,0.60648149
+314,"Tunisia","Tunisia",2002,0,3,"Africa do Norte",0,0,0.55555558
+315,"Tunisia","Tunisia",2003,0,4,"Africa do Norte",0,0,0.55555558
+316,"Tunisia","Tunisia",2004,0,5,"Africa do Norte",0,0,0.55555558
+317,"Tunisia","Tunisia",2005,0,6,"Africa do Norte",0,0,0.55555558
+318,"Tunisia","Tunisia",2006,1,7,"Africa do Norte",1,1,0.55555558
+319,"Zimbabue","Zimbabwe",1999,0,0,"Africa Oriental",0,0,0.5
+320,"Zimbabue","Zimbabwe",2000,0,1,"Africa Oriental",0,0,0.36574075
+321,"Zimbabue","Zimbabwe",2001,0,2,"Africa Oriental",0,0,0.25925925
+322,"Zimbabue","Zimbabwe",2002,0,3,"Africa Oriental",0,0,0.19444445
+323,"Zimbabue","Zimbabwe",2003,0,4,"Africa Oriental",0,0,0.19444445
+324,"Zimbabue","Zimbabwe",2004,0,5,"Africa Oriental",1,1,0.24074075
+325,"Zimbabue","Zimbabwe",2005,1,6,"Africa Oriental",4,5,0.2951389

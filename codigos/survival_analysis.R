@@ -1,31 +1,45 @@
-## Pacotes ####
 
-options(scipen = 999)
+# importar pacotes
+#options(scipen = 999)
 library(ggplot2)
 library(survival)
 library(spduration)
 library(stargazer)
 library(simPH)
+<<<<<<< HEAD
 
 ## Dados ####
 library(readr)
 DATASET <- read_csv("dados/DATASET.csv")
 View(DATASET)
+=======
+library(readr)
+>>>>>>> f909ba8f88e45aaaf7009f21193ae973aff0705e
 
-## Criando a variável "inicio" ##
+# importar dados
+DATASET <- read_csv("resultados/DATASET_V3.csv")
+
+# criando a variavel "inicio" 
 DATASET$inicio <- as.numeric(as.factor(DATASET$anos))
 
-## Criando a variável 'fim' ##
+# criando a variavel 'fim'
 DATASET$fim <- DATASET$inicio + 1
 
-## Análise ####
+## analise sobrevivencia ##
+modelo1 <- coxph(Surv(inicio, fim,inicio_projeto) ~ distancia_2palop + 
+                                                    semelhanca_quali_institucional_icrg + 
+                                                    regiao_proj_acumulados +
+                                                    instituicoes_com_palop, 
+                                                    data = DATASET)
+coxph(Surv(inicio, fim,inicio_projeto) ~ distancia_2palop + 
+        semelhanca_quali_institucional_icrg + 
+        regiao_proj_acumulados +
+        instituicoes_com_palop, 
+      data = DATASET)
 
-
-modelo1 <- coxph(Surv(inicio, fim,inicio_projeto) ~ distancia_2palop + icrg_qog + regiao_proj_noano +
-                   instituicoes_internacionais_proj_noano, data = DATASET)
-
-coxph(Surv(inicio, fim,inicio_projeto) ~ distancia_2palop + icrg_qog + regiao_proj_noano +
-        instituicoes_internacionais_proj_noano, data = DATASET)
+## Adaptando resultados do modelo de Cox para poder reproduzi-lo no stargazer ##
+modelo2 <- modelo1
+modelo2$coefficients <- exp(modelo2$coefficients)
 
 ## Resíduos de Schoenfeld ##
 res.modelo1 <- cox.zph(modelo1, transform = "identity")
@@ -41,13 +55,8 @@ abline(h=modelo1$coefficients[3], lty=4, col=2)
 plot(res.modelo1[4])
 abline(h=modelo1$coefficients[4], lty=4, col=2)
 
-## Tabela com coeficientes (Stargazer) ####
-
-## Adaptando resultados do modelo de Cox para poder reproduzi-lo no stargazer ##
-modelo2 <- modelo1
-modelo2$coefficients <- exp(modelo2$coefficients)
-
 stargazer(modelo1, modelo2, dep.var.labels=c(""),
-          column.labels = c("Coefficient", "Exp(Coef)", "Coefficient", "Exp(Coef)"), column.separate = c(1,1,1,1),
+          column.labels = c("Coefficient", "Exp(Coef)"), column.separate = c(1,1),
           omit.stat = c("max.rsq", "wald"), intercept.bottom = FALSE, intercept.top=TRUE,
-          type = "latex", style = "apsr")  ## Stargazer output ##
+          type = "text", style = "apsr")  ## Stargazer output ##
+
