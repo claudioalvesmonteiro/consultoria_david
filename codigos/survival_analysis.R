@@ -2,14 +2,14 @@
 
 options(scipen = 999)
 library(ggplot2)
-library("survival")
-library("spduration")
+library(survival)
+library(spduration)
 library(stargazer)
-library("simPH")
+library(simPH)
 
 ## Dados ####
 library(readr)
-DATASET <- read_csv("DATASET.csv")
+DATASET <- read_csv("dados/DATASET.csv")
 View(DATASET)
 
 ## Criando a variável "inicio" ##
