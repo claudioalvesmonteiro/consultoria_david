@@ -8,7 +8,12 @@
 #Carregar pacote
 library(tidyverse)
 library(dplyr)
+library(plyr)
 library(readxl)
+
+library(ggplot2)
+library(plotly)
+library(wesanderson)
 
 #Juntar todos os csv
 df = list.files(path="dados/dados-comercio", full.names = TRUE) %>% 
@@ -21,10 +26,11 @@ df = bind_rows(df)
 PALOP = c("Cape Town","Guinea-Bissau","Equatorial Guinea","Sao Tome and Principe","Angola","Mozambique")
 
 #=====================================================================================#
-# Analise 1:  ~ Grafico de linha~ % de comércio com países PALOP do total de comércio #
-# internacional X número de projetos de cooperação com o Brasil, por país, no tempo   #               #
+# Analise 1:  ~ Grafico de linha~ % de comercio com paises PALOP do total de comercio #
+# internacional X numero de projetos de cooperação com o Brasil, por pais, no tempo.  #               #
 #=====================================================================================#
 
+#Variável 1 - % de comercio
 #checar nome dos parceiros 
 t = table(df$Partner)
 View(table)
@@ -36,10 +42,44 @@ a = filter(a1, Partner %in% PALOP)
 a$Condicao = "PALOP"
 b = filter(a1, !Partner %in% PALOP)
 b$Condicao = "Outros países"
-
 a1=rbind(a,b)
 rm(a,b)
 
 a1 = a1 %>% group_by(Year, Reporter, Condicao) %>% summarise(Freq=n()) %>%
-  spread(Condicao, Freq)                
+  spread(Condicao, Freq) #mudar formato do banco
+
+#calcular percentual PALOP
 a1$perc_palop = round((a1$PALOP/a1$`Outros países`)*100,2)
+
+#Variável 2 - num. projetos brasil
+df2 = read_excel("dados/projetos_brasil.xlsm")
+
+df2$ano_inicio = str_sub(df2$Início, end=4) #data completa -> somente ano
+
+#Separar paises (ver obs 30)
+df2$País = gsub("\\; ", ",", df2$País)
+df2=df2 %>% 
+  mutate(País=strsplit(País, ",")) %>% 
+  unnest(País)
+
+#calcular numero de projetos
+t = df2 %>% select(ano_inicio, País) %>%
+  filter(País %in% c("Etiópia", "Quênia", "Nigéria", "África do Sul", "Tanzânia")) %>%
+  group_by(ano_inicio, País) %>%
+  summarise(num_projetos=n()) #PROBLEMA
+  
+#traduzir nomes
+a1$Reporter = mapvalues(a1$Reporter, c("Ethiopia", "Kenya", "Nigeria", "South Africa", "United Rep. of Tanzania"),
+                  c("Etiópia", "Quênia", "Nigéria", "África do Sul", "Tanzânia"))
+
+#visualizar
+ggplot() + 
+  geom_line(a1, aes(Year, perc_palop), color='green') + 
+  geom_line(df2,aes(ano_inicio, num), color='red')
+
+ggplot(a1, aes(Year, perc_palop)) + geom_line() + facet_wrap(~Reporter) +
+  scale_x_continuous(breaks = seq(1992, 2017, by = 5)) +
+  labs(x = "", y = "% PALOP") +
+  tema_massa()
+  
+  
