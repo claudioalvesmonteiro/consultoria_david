@@ -1,0 +1,245 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1793030272,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1361698944,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22713128,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264914,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9207313,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4703055,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4061619,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12560735,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,810981,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36460,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1586109,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1344743,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219591,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45617312,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25236940,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25215646,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78820,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18832,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20047,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,688302,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6568696,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181851,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305613,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17464976,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7035266,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9214,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2281,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,490735,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1349500,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26147268,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1916444,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15944,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4252346,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20766,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5859,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327000,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7848523,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266855,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1895872,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2035,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1868685,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9494,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3289,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20973188,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2542360,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21856,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93716,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11339376,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296051,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20100868,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11077418,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68596384,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28335100,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81052,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1386154,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3480888,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111865,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63025,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3060,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111040792,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71562576,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10113,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506014,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302918,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2385,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516413,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2882166,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1371,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10940846,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3130987,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,828604,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67735,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3358644,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2102979,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5291,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501420,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1953040,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8567623,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11784,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16239330,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11436278,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48920532,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33977008,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8011255,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3796,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158412,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19969,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126379336,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14497344,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3765494,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1164764,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90771,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9228337,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2804474,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63439,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1136537,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3369,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342531,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1258,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19277,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236994,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025157,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,682,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122414,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1480621,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19777,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66538852,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2060585,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5079,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,471,"CACM, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101404,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,471,"CACM, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115772,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1725,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1044073,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6024248,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1422,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120232,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168496,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10239523,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871975,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4304702,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288566,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1967,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22123,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,309111,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6891,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208148,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336347,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7635,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43400040,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44359124,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581804,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,749886,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36549,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3666639,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22138,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11889508,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1191593,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1796,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19171392,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84189208,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18811,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61530,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478573,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2423358,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159951,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2093738,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3877084,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2479320,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64556,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3332702,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2595419,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17412,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1045419,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22727,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188961,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13379499,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249767,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4242,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17610780,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7289101,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145932,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3832,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850460,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50736,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25954,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6427,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50365464,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6887469,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25441,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30393716,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11434170,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1019074,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130425,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30058042,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,491677,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47616624,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6813107,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364577,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12618581,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2620013,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80901,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8730347,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12509238,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2874,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32352,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1620689,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12590644,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160954,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14115972,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13485978,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26116560,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47527276,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3887,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117151,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14232068,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5646102,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282686,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143463,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18523,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26307,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10080,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10080,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5777688,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256770976,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3279,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48805,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527680,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568723,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5072211,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74702120,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2659103,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344783,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40955108,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25538,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195444912,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195798560,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35521,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9951656,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48769992,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4539418,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94810472,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4053029,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199687,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75101,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146974240,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39844212,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8533,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30007,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73457,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3529911,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1743692,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294498,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8050163,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3523832,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435911,,,0
+H0,1992,1992,1992,0,0,1,Import,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432506976,,,0
+H0,1992,1992,1992,0,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772233,,,0
+H0,1992,1992,1992,0,0,3,Re-Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91456,,,0
