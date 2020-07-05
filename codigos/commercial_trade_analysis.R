@@ -33,7 +33,6 @@ PALOP = c("Cape Town","Guinea-Bissau","Equatorial Guinea","Sao Tome and Principe
 #Variável 1 - % de comercio
 #checar nome dos parceiros 
 t = table(df$Partner)
-View(table)
 
 a1 = df %>% filter(!grepl(", nes",Partner)) %>% #excluir agrupados por continente
   group_by(Year, Reporter, Partner) %>% summarise(Freq=n())
@@ -63,23 +62,24 @@ df2=df2 %>%
   unnest(País)
 
 #calcular numero de projetos
-t = df2 %>% select(ano_inicio, País) %>%
+df2 = df2 %>% select(ano_inicio, País) %>%
   filter(País %in% c("Etiópia", "Quênia", "Nigéria", "África do Sul", "Tanzânia")) %>%
   group_by(ano_inicio, País) %>%
-  summarise(num_projetos=n()) #PROBLEMA
+  summarise(num_projetos=n())
   
 #traduzir nomes
 a1$Reporter = mapvalues(a1$Reporter, c("Ethiopia", "Kenya", "Nigeria", "South Africa", "United Rep. of Tanzania"),
-                  c("Etiópia", "Quênia", "Nigéria", "África do Sul", "Tanzânia"))
+                                      c("Etiópia", "Quênia", "Nigéria", "África do Sul", "Tanzânia"))
+df2$Reporter = df2$País
 
 #visualizar
 ggplot() + 
-  geom_line(a1, aes(Year, perc_palop), color='green') + 
-  geom_line(df2,aes(ano_inicio, num), color='red')
-
-ggplot(a1, aes(Year, perc_palop)) + geom_line() + facet_wrap(~Reporter) +
+  geom_line(data = a1, aes(x=Year, y=perc_palop), color='#2D93AD', size=1) + 
+  geom_line(data = df2,aes(x=as.numeric(ano_inicio), y=num_projetos), color='#DE8F6E', size=1) +
+  geom_point(data = df2,aes(x=as.numeric(ano_inicio), y=num_projetos), color='#DE8F6E', size = 2) +
+  facet_wrap(~Reporter) +
   scale_x_continuous(breaks = seq(1992, 2017, by = 5)) +
-  labs(x = "", y = "% PALOP") +
-  tema_massa()
-  
-  
+  labs(x = "", y = "") +
+  theme_minimal()  +
+  theme(         panel.border = element_rect(fill = NA, color = "#E6E6E6", size = 1.25, linetype = "solid"),
+                 axis.ticks = element_line(colour = '#E6E6E6', size = 1, linetype = 'solid'))

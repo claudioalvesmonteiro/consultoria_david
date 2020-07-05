@@ -1,3 +1,12 @@
+#---------------------------
+# ANALYITQUE CONSULTORIA
+# Consultoria David Beltrao
+#
+# analise de sobrevivencia 
+# @rodrigolins
+# @claudiomonteiro
+# Mar 2020
+#-------------------------
 
 # importar pacotes
 #options(scipen = 999)
@@ -6,15 +15,7 @@ library(survival)
 library(spduration)
 library(stargazer)
 library(simPH)
-<<<<<<< HEAD
-
-## Dados ####
 library(readr)
-DATASET <- read_csv("dados/DATASET.csv")
-View(DATASET)
-=======
-library(readr)
->>>>>>> f909ba8f88e45aaaf7009f21193ae973aff0705e
 
 # importar dados
 DATASET <- read_csv("resultados/DATASET_V3.csv")
@@ -58,5 +59,5 @@ abline(h=modelo1$coefficients[4], lty=4, col=2)
 stargazer(modelo1, modelo2, dep.var.labels=c(""),
           column.labels = c("Coefficient", "Exp(Coef)"), column.separate = c(1,1),
           omit.stat = c("max.rsq", "wald"), intercept.bottom = FALSE, intercept.top=TRUE,
-          type = "text", style = "apsr")  ## Stargazer output ##
+          type = "latex", style = "apsr")  ## Stargazer output ##
 
