@@ -22,8 +22,9 @@ df = list.files(path="dados/dados-comercio", full.names = TRUE) %>%
 
 df = bind_rows(df) 
 
-#Definir paises PALOP
+#Definir listas
 PALOP = c("Cape Town","Guinea-Bissau","Equatorial Guinea","Sao Tome and Principe","Angola","Mozambique")
+Africa = c()
 
 #=====================================================================================#
 # Analise 1:  ~ Grafico de linha~ % de comercio com paises PALOP do total de comercio #
@@ -36,8 +37,20 @@ t = table(df$Partner)
 rm(t)
 
 a1 = df %>% filter(!grepl(", nes",Partner)) %>% #excluir agrupados por continente
-  group_by(Year, Reporter, Partner) %>% summarise(Freq=n())
+  select(Year, Reporter, Partner, `Trade Flow`,`Trade Value (US$)`)
+#%>% summarise(Freq=n())
 
+#calcular balança comercial
+a1 = spread(a1, `Trade Flow`,`Trade Value (US$)`) #1. mudar formato do banco
+a1[is.na(a1)] = 0 #NA para 0
+
+a1 = a1 %>% mutate(Exports= Export+`Re-Export`)#2. somar RE-...
+a1 = a1 %>% mutate(Imports= Import+`Re-Import`)
+a1 = a1[,-c(4:7)] #3. excluir variaveis antigas
+
+a1 = a1 %>% mutate(BlCom= Exports-Imports) #calcular balança
+
+#agrupar PALOP
 a = filter(a1, Partner %in% PALOP)
 a$Condicao = "PALOP"
 b = filter(a1, !Partner %in% PALOP)
@@ -45,8 +58,11 @@ b$Condicao = "Outros países"
 a1=rbind(a,b)
 rm(a,b)
 
-a1 = a1 %>% group_by(Year, Reporter, Condicao) %>% summarise(Freq=n()) %>%
-  spread(Condicao, Freq) #mudar formato do banco
+a1 = a1[,-c(4:5)] #excluir exp. e imp.
+
+teste = a1 %>%  group_by(Year, Reporter, Condicao) %>%
+  summarise_at(vars(BlCom), list(BlCom = sum)) %>%
+  spread(Condicao, BlCom) #mudar formato do banco
 
 #calcular percentual PALOP
 a1$perc_palop = round((a1$PALOP/a1$`Outros países`)*100,2)
