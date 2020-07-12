@@ -60,14 +60,18 @@ rm(a,b)
 
 a1 = a1[,-c(4:5)] #excluir exp. e imp.
 
-teste = a1 %>%  group_by(Year, Reporter, Condicao) %>%
+a1 = a1 %>%  group_by(Year, Reporter, Condicao) %>%
   summarise_at(vars(BlCom), list(BlCom = sum)) %>%
   spread(Condicao, BlCom) #mudar formato do banco
 
 #calcular percentual PALOP
-a1$perc_palop = round((a1$PALOP/a1$`Outros países`)*100,2)
+a1$Total =  a1$`Outros países`+a1$PALOP
+a1$perc_palop = round((a1$PALOP/a1$Total)*100,2)
 
-#Variável 2 - num. projetos brasil
+a1$perc_palop = abs(a1$perc_palop) #transformar negativos em positivos
+a1[is.na(a1)] = 0 #NA para 0
+
+#====== Variável 2 - num. projetos brasil =======#
 df2 = read_excel("dados/projetos_brasil.xlsm")
 
 df2$ano_inicio = str_sub(df2$Início, end=4) #data completa -> somente ano
@@ -91,42 +95,80 @@ a1$Reporter = mapvalues(a1$Reporter, c("Ethiopia", "Kenya", "Nigeria", "South Af
 colnames(df2) = c("Year", "Reporter", "num_projetos")
 #3. transformar anos em numerico
 df2$Year = as.numeric(df2$Year)
-df_all = full_join(a1[,-c(3:4)], df2, by = c('Year','Reporter')) #unir
+df_all = full_join(a1[,-c(3:5)], df2, by = c('Year','Reporter')) #unir
 
 df_all = gather(df_all, "Variavel", "Valor", 3:4) #formato tidy
+df_all[is.na(df_all)] = 0 #NA para 0
 
-#visualizar
-ggplot(df_all, aes(Year, Valor, group=Variavel)) + 
+#======== Selecionar variáveis para plotar ========#
+pick <- function(condition){
+  function(d) d %>% filter_(condition)
+}
+
+#visualizar (s/ africa do sul)
+ggplot(subset(df_all, Reporter != "África do Sul"), aes(Year, Valor, group=Variavel)) + 
   geom_line(aes(colour=Variavel)) +
-  geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
+  #geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
   facet_wrap(~Reporter, scales = 'free_x') +
-  scale_x_continuous(breaks = seq(1992, 2017, by = 3)) + ylim(0,10) +
+  scale_x_continuous(breaks = seq(1992, 2017, by = 3)) + #ylim(0,10) +
   scale_color_manual(labels = c("Número de projeto com o Brasil",
-                                "% de comércio com PALOP do total"),
+                                "% da balança comercial com PALOP do total"),
                      values = c("#DE8F6E", "#2D93AD")) +
   labs (x="", y="", colour="") +
   theme_minimal() + theme(axis.text.x = element_text(size=8), legend.position="bottom",
-                         strip.background = element_rect(color="#E6E6E6", fill="white", size=1))+
-  ggsave("graf1.png", path = "resultados", width = 7, height = 4, units = "in")
-                      
+                          strip.background = element_rect(color="#E6E6E6", fill="white", size=1))+
+ggsave("graf1.png", path = "resultados", width = 7, height = 4, units = "in")
+
+#africa do sul
+df_afrdsul = df_all %>% filter(Reporter == "África do Sul") %>%
+  spread(Variavel, Valor)
+
+num = ggplot(df_afrdsul, aes(Year, num_projetos)) + 
+  geom_line(colour = "#DE8F6E") +
+  xlim (2000, 2017)+ ylim (0,5) +
+  labs (x="", y="Número de projetos com o Brasil") +
+  theme_minimal() + theme(axis.title.y = element_text(size=8)) +
+  ggsave("1.1-africa.png", path = "resultados", width = 5, height = 4, units = "in")
+
+perc = ggplot(df_afrdsul, aes(Year, perc_palop)) + 
+  geom_line(colour = "#2D93AD") +
+  xlim (2000, 2017)+ ylim (0,100) +
+  labs (x="", y="% da balança comercial com PALOP do total") +
+  theme_minimal() + theme(axis.title.y = element_text(size=8)) +
+  ggsave("1.2-africa.png", path = "resultados", width = 5, height = 4, units = "in")
+
   
 #======================================#
 # Analise 2:  mesma análise 1 com log  #
 #======================================#
 
-#visualizar
-ggplot(df_all, aes(Year, log(Valor), group=Variavel)) + 
+#visualizar (s/ africa do sul)
+ggplot(subset(df_all, Reporter != "África do Sul"), aes(Year, log(Valor), group=Variavel)) + 
   geom_line(aes(colour=Variavel)) +
+  #geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
   facet_wrap(~Reporter, scales = 'free_x') +
-  scale_x_continuous(breaks = seq(1992, 2017, by = 3)) + 
-  geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
+  scale_x_continuous(breaks = seq(1992, 2017, by = 3)) +
   scale_color_manual(labels = c("Número de projeto com o Brasil (log)",
-                                "% de comércio com PALOP do total (log)"),
+                                "% da balança comercial com PALOP do total(log)"),
                      values = c("#DE8F6E", "#2D93AD")) +
   labs (x="", y="", colour="") +
   theme_minimal() + theme(axis.text.x = element_text(size=8), legend.position="bottom",
-                        strip.background = element_rect(color="#E6E6E6", fill="white", size=1)) +
-  ggsave("graf2.png", path = "resultados", width = 7, height = 4, units = "in")
+                          strip.background = element_rect(color="#E6E6E6", fill="white", size=1))+
+  ggsave("graf1_log.png", path = "resultados", width = 7, height = 4, units = "in")
+
+#africa do sul
+ggplot(subset(df_all, Reporter == "África do Sul"), aes(Year, log(Valor), group=Variavel)) + 
+  geom_line(aes(colour=Variavel)) + 
+  scale_x_continuous(breaks = seq(2000, 2017, by = 3)) + ylim(0,5) +
+  facet_wrap(~Reporter) +
+  #geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
+  scale_color_manual(labels = c("Número de projeto com o Brasil(log)",
+                                "% da balança comercial com PALOP do total(log)"),
+                     values = c("#DE8F6E", "#2D93AD")) +
+  labs (x="", y="", colour="") +
+  theme_minimal() + theme(legend.position="bottom",
+                          strip.background = element_rect(color="#E6E6E6", fill="white", size=1))+
+  ggsave("graf2_log.png", path = "resultados", width = 7, height = 4, units = "in")
 
 #======================================================================#
 # Analise 3: ~Teste de correlação de Pearson, % de comércio com PALOP  #
@@ -139,9 +181,9 @@ df3 = full_join(a1[,-c(3:4)], df2, by = c('Year','Reporter'))
 cor.test(df3$perc_palop, df3$num_projetos)
 
 
-
-
-#rascunho
+#==============#
+#   Rascunho   #
+#==============#
 projetos_br = read_excel("dados/projetos_brasil.xlsm")
 projetos_br = filter(projetos_br, Região == "África")
 
