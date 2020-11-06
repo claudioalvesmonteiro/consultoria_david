@@ -48,7 +48,7 @@ a1 = a1 %>% mutate(Exports= Export+`Re-Export`)#2. somar RE-...
 a1 = a1 %>% mutate(Imports= Import+`Re-Import`)
 a1 = a1[,-c(4:7)] #3. excluir variaveis antigas
 
-a1 = a1 %>% mutate(BlCom= Exports-Imports) #calcular balança
+a1 = a1 %>% mutate(BlCom= Exports+Imports) #calcular balança
 
 #agrupar PALOP
 a = filter(a1, Partner %in% PALOP)
@@ -106,7 +106,7 @@ pick <- function(condition){
 }
 
 #visualizar (s/ africa do sul)
-ggplot(subset(df_all, Reporter != "África do Sul"), aes(Year, Valor, group=Variavel)) + 
+ggplot(df_all, aes(Year, Valor, group=Variavel)) + 
   geom_line(aes(colour=Variavel)) +
   #geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
   facet_wrap(~Reporter, scales = 'free_x') +
@@ -117,7 +117,7 @@ ggplot(subset(df_all, Reporter != "África do Sul"), aes(Year, Valor, group=Vari
   labs (x="", y="", colour="") +
   theme_minimal() + theme(axis.text.x = element_text(size=8), legend.position="bottom",
                           strip.background = element_rect(color="#E6E6E6", fill="white", size=1))+
-ggsave("graf1.png", path = "resultados", width = 7, height = 4, units = "in")
+ggsave("graf1.png", path = "resultados", width = 9, height = 5, units = "in")
 
 #africa do sul
 df_afrdsul = df_all %>% filter(Reporter == "África do Sul") %>%
@@ -143,7 +143,7 @@ perc = ggplot(df_afrdsul, aes(Year, perc_palop)) +
 #======================================#
 
 #visualizar (s/ africa do sul)
-ggplot(subset(df_all, Reporter != "África do Sul"), aes(Year, log(Valor), group=Variavel)) + 
+ggplot(df_all, aes(Year, log(Valor), group=Variavel)) + 
   geom_line(aes(colour=Variavel)) +
   #geom_point(data = pick(~Variavel == "num_projetos"), colour = "#DE8F6E", size=0.8)+
   facet_wrap(~Reporter, scales = 'free_x') +
@@ -154,7 +154,7 @@ ggplot(subset(df_all, Reporter != "África do Sul"), aes(Year, log(Valor), group
   labs (x="", y="", colour="") +
   theme_minimal() + theme(axis.text.x = element_text(size=8), legend.position="bottom",
                           strip.background = element_rect(color="#E6E6E6", fill="white", size=1))+
-  ggsave("graf1_log.png", path = "resultados", width = 7, height = 4, units = "in")
+  ggsave("graf1_log.png", path = "resultados", width = 9, height = 5, units = "in")
 
 #africa do sul
 ggplot(subset(df_all, Reporter == "África do Sul"), aes(Year, log(Valor), group=Variavel)) + 
@@ -177,6 +177,8 @@ ggplot(subset(df_all, Reporter == "África do Sul"), aes(Year, log(Valor), group
 
 #banco
 df3 = full_join(a1[,-c(3:4)], df2, by = c('Year','Reporter'))
+
+df3$num_projetos[is.na(df3$num_projetos)] <- 0
 
 cor.test(df3$perc_palop, df3$num_projetos)
 
